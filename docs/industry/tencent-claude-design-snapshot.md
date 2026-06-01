@@ -1,0 +1,455 @@
+---
+title: tencent claude design snapshot
+description: tencent claude design snapshot。本文属于Claude 行业趋势与 Agent 场景专题，面向国内用户梳理 Claude 使用、Claude Code 编程和 AI 开发实践。
+date: 2026-05-31
+category: Claude 行业趋势与 Agent 场景
+tag:
+  - Claude
+  - 国内使用
+  - AI编程
+---
+
+# tencent claude design snapshot
+
+- generic [active] [ref=e1]:
+  - link "欢迎进入 Claude 新产品暴打设计圈，一条推文干崩 Adobe、Figma 股价_腾讯新闻,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+    - img [ref=e2]
+  - generic [ref=e5]:
+    - link [ref=e6]:
+      - /url: https://www.qq.com
+    - list [ref=e8]:
+      - listitem [ref=e9]:
+        - link "首页" [ref=e10] [cursor=pointer]:
+          - /url: https://www.qq.com
+          - img [ref=e11]
+          - text: 首页
+      - listitem [ref=e14]:
+        - link "要闻" [ref=e15] [cursor=pointer]:
+          - /url: https://news.qq.com
+      - listitem [ref=e16]:
+        - link "深圳" [ref=e17] [cursor=pointer]:
+          - /url: https://news.qq.com/d/sz
+        - img [ref=e18] [cursor=pointer]
+      - listitem [ref=e21]:
+        - link "科技" [ref=e22] [cursor=pointer]:
+          - /url: https://news.qq.com/ch/tech
+      - listitem [ref=e23]:
+        - generic [ref=e24] [cursor=pointer]: 更多
+        - img [ref=e25] [cursor=pointer]
+    - generic [ref=e28] [cursor=pointer]:
+      - img [ref=e29]
+      - generic [ref=e33]: 游戏
+    - generic [ref=e34] [cursor=pointer]: 无障碍
+    - generic [ref=e38] [cursor=pointer]: 登录
+    - generic [ref=e41] [cursor=pointer]:
+      - img [ref=e42]
+      - generic [ref=e46]:
+        - generic [ref=e47]: 安装电脑版
+        - generic [ref=e48]: 内容更精彩
+  - generic [ref=e52]:
+    - link [ref=e53] [cursor=pointer]:
+      - /url: https://c.l.qq.com/click?oid=95874701842&cid=95874710629&click_data=EAAoAEAbWhBGODEzMEYwMTYyQjBEMENE_viewid_5ij4xG3_jBch_gXyNlIr0sJgdDqWOT_zAxKo0teXrDB!gySeq7ZF7YvMyHYQ_qHM4HOFyvW1tJmqrah6B0AprPmXlOq8S2aWEYenot4buH6dzNdXCQbSIFchRHpumJ2vUPUOFbACycfvFLVTvQXWr8lBrTd6KzMnTLS!k7inC1xU6xIsXRie5T7ofWAwv0qwM5Gl7OxdGJ1NlKQCD0pdCXlnziaLhEk!iItR_y4B2F7XC_VURkGSTg&adtype=&appversion=0&contract=1&jtype=0&i=1&os=3&s_lp=101&acttype=__ACT_TYPE__&ch=__CHANNEL_ID__&seq=__SEQ__&aseq=__ABS_SEQ__&rt=__RETURN_TYPE__&xp=0&vto=__VIDEO_PLAY_TIME__&device_os_type=windows&dynamic_creative_id=0&image_component_ids=0&tl=1
+    - link [ref=e54] [cursor=pointer]:
+      - /url: https://c.l.qq.com/click?oid=95874701842&cid=95874710629&click_data=EAAoAEAbWhBGODEzMEYwMTYyQjBEMENE_viewid_5ij4xG3_jBch_gXyNlIr0sJgdDqWOT_zAxKo0teXrDB!gySeq7ZF7YvMyHYQ_qHM4HOFyvW1tJmqrah6B0AprPmXlOq8S2aWEYenot4buH6dzNdXCQbSIFchRHpumJ2vUPUOFbACycfvFLVTvQXWr8lBrTd6KzMnTLS!k7inC1xU6xIsXRie5T7ofWAwv0qwM5Gl7OxdGJ1NlKQCD0pdCXlnziaLhEk!iItR_y4B2F7XC_VURkGSTg&adtype=&appversion=0&contract=1&jtype=0&i=1&os=3&s_lp=101&acttype=__ACT_TYPE__&ch=__CHANNEL_ID__&seq=__SEQ__&aseq=__ABS_SEQ__&rt=__RETURN_TYPE__&xp=0&vto=__VIDEO_PLAY_TIME__&device_os_type=windows&dynamic_creative_id=0&image_component_ids=0&tl=1&k=figma%2CAdobe%2Cclaude%2C%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F%2Cdesign%2C%E8%82%A1%E4%BB%B7%2C%E8%AE%BE%E8%AE%A1%E5%B8%88&t=Claude%20%E6%96%B0%E4%BA%A7%E5%93%81%E6%9A%B4%E6%89%93%E8%AE%BE%E8%AE%A1%E5%9C%88%EF%BC%8C%E4%B8%80%E6%9D%A1%E6%8E%A8%E6%96%87%E5%B9%B2%E5%B4%A9%20Adobe%E3%80%81Figma%20%E8%82%A1&r=&s=
+    - img [ref=e55] [cursor=pointer]
+  - generic [ref=e56]:
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - generic [ref=e62]:
+          - generic [ref=e63] [cursor=pointer]:
+            - img [ref=e65]
+            - paragraph [ref=e68]: "9"
+          - generic [ref=e69] [cursor=pointer]:
+            - img [ref=e71]
+            - paragraph [ref=e74]: "4"
+          - generic [ref=e75] [cursor=pointer]:
+            - img [ref=e77]
+            - paragraph [ref=e80]: "19"
+          - generic [ref=e81] [cursor=pointer]:
+            - img [ref=e83]
+            - paragraph [ref=e86]: "46"
+          - generic [ref=e87] [cursor=pointer]:
+            - img [ref=e89]
+            - paragraph [ref=e95]: 手机看
+          - generic [ref=e96] [cursor=pointer]:
+            - generic [ref=e97]:
+              - img "元宝·新闻妹" [ref=e98]
+              - img "元宝·新闻妹" [ref=e99]
+            - paragraph [ref=e100]: 元宝·新闻妹
+        - generic [ref=e101]:
+          - heading "Claude 新产品暴打设计圈，一条推文干崩 Adobe、Figma 股价" [level=1] [ref=e102]
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - img "头像" [ref=e107] [cursor=pointer]
+              - generic [ref=e108]:
+                - link "硅星人Pro" [ref=e109]:
+                  - /url: https://news.qq.com/omn/author/8QMc339d5IMbvDfY5gVx
+                  - paragraph [ref=e110] [cursor=pointer]: 硅星人Pro
+                - paragraph [ref=e111]:
+                  - text: 2026-04-19 10:33
+                  - generic [ref=e112]: 发布于北京
+            - generic [ref=e113] [cursor=pointer]:
+              - img [ref=e114]
+              - generic [ref=e117]: 关注
+          - generic [ref=e118]:
+            - generic [ref=e120] [cursor=pointer]:
+              - generic [ref=e123]: 问AI · 一条推文为何能引发Adobe和Figma股价震荡？
+              - img [ref=e124]
+            - generic [ref=e128]:
+              - generic [ref=e130]:
+                - generic [ref=e132]: 一觉醒来，Claude 还在继续上大分，这一次瞄准的是设计行业。
+                - generic [ref=e135]:
+                  - text: 就在刚刚，Anthropic 正式发布 AI 设计工具
+                  - generic [ref=e137] [cursor=pointer]: Claude Design
+                  - text: ，相关推文在 X 平台引发超过 1141 万次浏览。
+                - generic [ref=e140]:
+                  - img "图片" [ref=e141]
+                  - img
+                - generic [ref=e142]: 过去我们常说，做好一名设计师，你需要熟练掌握各种复杂的软件快捷键，懂得像素级的对齐规范，还要在产品经理和开发工程师的无休止拉扯中艰难生存。而现在，Claude Design 给出了一种极其粗暴且优雅的解法：你只需要会说话。
+                - generic [ref=e144]: Claude Design 发布不到 20 分钟，Figma 股价开始下跌，Adobe 同样未能幸免。
+                - img "图片" [ref=e146]
+                - paragraph [ref=e149]: "1"
+                - paragraph [ref=e150]:
+                  - strong [ref=e151]:
+                    - generic [ref=e152]: 设计即 AI，AI 即设计
+                - generic [ref=e153]: 如果你以为 Claude Design 只是另一个 Midjourney 或者 Nano Banana Pro，那就大错特错了。
+                - generic [ref=e155]: 传统的 AI 绘图工具生成的是一张张无法修改的「静态图」（JPG 或 PNG），而由 Anthropic 目前最强视觉模型 Claude Opus 4.7 驱动的 Claude Design，生成的是真正意义上的设计稿、交互原型、演示文稿与单页文档。
+                - img "图片" [ref=e157]
+                - generic [ref=e159]: Claude Design 目前处于研究预览阶段，向 Claude Pro、Max、Team 和 Enterprise 订阅用户开放，目前正在逐步推送，费用计入现有订阅额度，超出后可选择开启额外用量。
+                - generic [ref=e161]:
+                  - text: 它的工作流完全颠覆了传统 GUI（图形用户界面）软件的逻辑，彻底转向了
+                  - generic [ref=e163] [cursor=pointer]: LUI
+                  - text: （自然语言界面）。工作流程分为几个层次。
+                - img "图片" [ref=e166]
+                - generic [ref=e167]: 用户描述需求，Claude 完成第一版；之后可通过对话持续迭代，也可以在具体元素上留下内联评论，或直接编辑文字，或拖动 Claude 自动生成的调节滑块实时调整间距、颜色和布局。
+                - generic [ref=e169]: 品牌适配是 Claude Design 的核心设计思路之一。
+                - generic [ref=e171]:
+                  - text: 任何一个做过大型项目的人都知道，
+                  - generic [ref=e173] [cursor=pointer]: 设计系统
+                  - text: 是团队协作的命脉。过去，建立一套包含颜色、字体、组件规范的设计系统，需要资深设计师耗费数周甚至数月的时间，并且在后续的迭代中极难维护。
+                - img "图片" [ref=e176]
+                - generic [ref=e177]: Claude Design 是怎么做的？它直接绕过了这个苦力活。在初次配置阶段，Claude 会读取团队的代码库和设计文件，自动构建一套设计系统，涵盖颜色、字体和组件规范，此后的每一个项目都会自动应用。团队可以同时维护多套设计系统，并根据需要持续优化。
+                - generic [ref=e178]: 素材输入支持多种来源：文字提示、上传图片或文档（支持 DOCX、PPTX、XLSX 格式）、导入代码库，或使用内置的网页截取工具直接抓取网站元素，让原型在视觉上与真实产品保持一致。
+                - generic [ref=e179]: 具体使用场景上，Anthropic 列举了六类典型用途。设计师可以将静态草图转化为可交互原型，无需经历代码审查和 PR 流程；产品经理可以画出功能流程图，直接交给 Claude Code 实现，或转给设计师进一步打磨；
+                - img "图片" [ref=e181]
+                - generic [ref=e182]: 创始人和销售可以从一份粗糙大纲出发，在几分钟内生成一套完整的品牌风格 Pitch Deck，并导出为 PPTX 或发送至 Canva；
+                - generic [ref=e184]:
+                  - text: 市场团队可以产出落地页、社交媒体素材和推广视觉物料；更进阶的场景是「
+                  - generic [ref=e186] [cursor=pointer]: 前沿设计
+                  - text: 」，任何人都可以构建包含语音、视频、着色器、3D 效果和内置 AI 能力的代码驱动原型。
+                - generic [ref=e189]: 「交付」这个动作，在 AI 时代失去了意义。因为设计即代码，代码即设计。
+                - generic [ref=e190]: 协作方面，Claude Design 支持组织内部共享，文档可设置为私有、组织内链接可见，或授予编辑权限，让同事加入后共同修改设计，并在同一个群组对话中与 Claude 实时交流。
+                - generic [ref=e191]: 毕竟，当一个工具能瞬间完成 90% 的工作时，人类还需要那么密集地在同一个画布上指指点点吗？
+                - generic [ref=e193]:
+                  - img "图片" [ref=e194]
+                  - img
+                - generic [ref=e196]:
+                  - text: 设计完成后，可导出为 Canva、PDF、PPTX 或独立 HTML 文件，也可以一键打包成
+                  - generic [ref=e198] [cursor=pointer]: 交付包
+                  - text: 传给 Claude Code，用一条指令启动开发落地。
+                - generic [ref=e200]: Anthropic 表示未来几周将进一步开放集成接口，方便与更多已有工具连接。对于企业用户，Claude Design 默认关闭，需要管理员在组织设置中手动开启。
+                - generic [ref=e201]: 对于我们每一个普通人来说，这或许是一个最好的时代。当操作软件不再成为壁垒，AI 工具的门槛被大幅度降低，接下来，就是拼品味的时候了。
+                - paragraph [ref=e203]: "1"
+                - paragraph [ref=e204]:
+                  - strong [ref=e205]:
+                    - generic [ref=e206]: Anthropic 的客户们，现在成了它的对手
+                - generic [ref=e207]: Claude Design 发布后，网友们反响热烈。
+                - generic [ref=e209]: 网友 @@emiliano154154 让 Claude 为重现 Stripe 首页撰写设计简报，并将简报粘贴到 Claude Design 中，一次性就成功了。
+                - img "图片" [ref=e211]
+                - generic [ref=e213]: 用 Claude Desigan 做视频也是遥遥领先。
+                - img "图片" [ref=e215]
+                - generic [ref=e217]: 打败 Claude 的只有更有更新的 Claude。
+                - img "图片" [ref=e219]
+                - generic [ref=e220]: 真·就仅凭一条推文，杀死了数千家应用层的 AI 初创公司。
+                - img "图片" [ref=e222]
+                - generic [ref=e223]: 关于 Claude 的进化速度，网友是懂玩梗的。
+                - img "图片" [ref=e225]
+                - generic [ref=e227]: Claude Design 发布后，Figma 和 Adobe 的股价也不出意外地跌跌不休。
+                - img "图片" [ref=e229]
+                - generic [ref=e230]: 股市的反应如此剧烈，很大程度上是因为大家早就看到了传统设计软件的危机。在这款人工智能工具带来降维打击之前，整个创意软件市场其实早就已经暗流涌动了。
+                - generic [ref=e231]: 天下苦 Adobe 久矣。最近，创意软件市场已经打响了一场旷日持久的价格战。Canva 将新收购的动态图形软件 Cavalry 改为完全免费；Affinity 三款对标 Adobe 核心产品的软件，原本每款售价 69.99 美元，被 Canva 收购后合并成一款零门槛应用；
+                - generic [ref=e232]: Maxon 重新上线了动态设计软件 Autograph，对个人用户免费开放，而这款软件 2023 年刚推出时永久授权高达 1795 美元。
+                - generic [ref=e234]:
+                  - img "图片" [ref=e235]
+                  - img
+                - generic [ref=e236]: DaVinci Resolve 21 新增色彩校正与蒙版功能，直接对标 Lightroom。苹果的 Creator Studio 套件每月 12.99 美元，涵盖 Final Cut Pro、Logic Pro 等一批专业软件，而 Adobe Creative Cloud Pro 套餐每月高达 69.99 美元。
+                - generic [ref=e237]: 这场价格战打下来，尽管 Adobe 持续失血，但根基未动。专业设计师的工作流惯性极难撼动，Figma 的协作体验也依然无可替代。
+                - generic [ref=e239]: 靠更便宜，撼动不了这两座山。但曲线救国的 Claude Design 的目标用户从一开始未必就是专业设计师，而是那些有视觉需求、但从未真正进入过设计工具生态的人。
+                - generic [ref=e241]:
+                  - img "图片" [ref=e242]
+                  - img
+                - generic [ref=e243]: 产品经理要表达一个界面想法，过去只能画草图或者将就用 PPT；创始人要出一套融资 Deck，过去要么找外包，要么求设计师加班。
+                - generic [ref=e244]: 这些需求长期游离在 Figma 和 Adobe 的用户边界之外，根本原因是工具的门槛太高，把他们挡在了门外。Claude Design 的到来，打开了一道缝隙。
+                - generic [ref=e246]: 这也是为什么 Figma 和 Adobe 的股价会在一条产品发布推文出现后应声下跌。市场真正看到的，是一次用户边界的重新划定。如果会说话就能做出基础甚至更好的设计，那么设计软件过去赖以收费的专业门槛，就会开始松动。
+                - generic [ref=e248]:
+                  - img "图片" [ref=e249]
+                  - img
+                - generic [ref=e250]: 有趣的是，Claude Design 冲击的 Figma 和 Adobe，本来都是 Anthropic 的潜在企业客户。现在 Anthropic 一边向企业兜售 Claude 的 API，一边亲手下场做产品，直接和客户抢市场，多少有点不讲武德。
+                - generic [ref=e251]: 当然，抛开社交媒体上的狂欢与股价波动带来的视觉冲击，冷静审视 Claude Design 目前交出的答卷，你会发现它并没有传说中那样「神乎其神」。
+                - generic [ref=e253]: 只是，在当下的商业语境里，Claude Design 当前的交付质量究竟是 60 分还是 80 分，其实已经不重要了。重要的是，人们已经开始相信 AI 必将势如破竹般重塑千行百业。
+                - generic [ref=e255]: 今天的创意设计行业，不过是这 AI 叙事里的又一块多米诺骨牌。
+              - generic [ref=e257]:
+                - generic [ref=e260]: 附上官方博客地址：
+                - generic [ref=e262]: https://www.anthropic.com/news/claude-design-anthropic-labs
+          - generic [ref=e265]:
+            - generic [ref=e266]: 免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。
+            - generic [ref=e267] [cursor=pointer]: 举报
+          - generic [ref=e273] [cursor=pointer]:
+            - generic [ref=e274]:
+              - img [ref=e275]
+              - img [ref=e276]
+              - img [ref=e277]
+              - generic [ref=e279]: 00:15
+            - generic [ref=e280]:
+              - generic [ref=e281]: 家乐减油凉拌汁，荤素主食都能拌，上朴朴，解锁超美味凉拌菜～
+              - generic [ref=e282]:
+                - generic [ref=e283]:
+                  - generic [ref=e284]: 广告
+                  - generic [ref=e285]: 家乐的美食厨房
+                - generic [ref=e286]:
+                  - generic [ref=e287]: 打开小程序
+                  - img [ref=e288]
+      - generic [ref=e290]:
+        - link "AI如何改变设计工作？ 腾讯ima 基于知识库问答更精准 看答案" [ref=e292]:
+          - /url: https://ima.qq.com/create/chat?launchChannel=10000091&extraInfo=%7B%22contentId%22%3A%2220260419A03EP500%22%2C%22launchChannel%22%3A%2210000091%22%7D
+          - generic [ref=e293] [cursor=pointer]:
+            - generic [ref=e296]:
+              - generic [ref=e297]: AI如何改变设计工作？
+              - generic [ref=e298]: 腾讯ima 基于知识库问答更精准
+            - generic [ref=e299]: 看答案
+        - listbox "为你推荐新闻" [ref=e300]:
+          - generic [ref=e301]: 相关推荐
+          - list [ref=e302]:
+            - generic [ref=e305]:
+              - generic "梁文锋的电话，被投资人打爆了" [ref=e306] [cursor=pointer]
+              - generic [ref=e308]:
+                - link "融中财经" [ref=e309]:
+                  - /url: https://news.qq.com/omn/author/8QMf1n9U5IUYuDfe
+                - generic [ref=e310]: 33评论
+                - generic [ref=e311]: 前天
+            - generic [ref=e315]:
+              - generic "梁文锋想通了" [ref=e316] [cursor=pointer]
+              - generic [ref=e318]:
+                - link "字母榜" [ref=e319]:
+                  - /url: https://news.qq.com/omn/author/8QMc1ndZ64YYvTzY
+                - generic [ref=e320]: 36评论
+                - generic [ref=e321]: 昨天
+            - generic [ref=e325]:
+              - generic "联想杨元庆在《人民日报》撰文，有何深意？" [ref=e326] [cursor=pointer]
+              - generic [ref=e328]:
+                - link "一见财经" [ref=e329]:
+                  - /url: https://news.qq.com/omn/author/8QMc339c7YQbvT7Y7wJz
+                - generic [ref=e330]: 24评论
+                - generic [ref=e331]: 10小时前
+            - generic [ref=e337] [cursor=pointer]:
+              - img [ref=e339]
+              - generic [ref=e340]:
+                - generic [ref=e341]: 有钱人都在悄悄办的土耳其护照，到底香在哪？
+                - generic [ref=e342]:
+                  - generic [ref=e343]:
+                    - generic [ref=e344]: 广告
+                    - generic [ref=e345]: 方舟天下中介服务
+                  - generic [ref=e346]:
+                    - generic [ref=e347]: 了解详情
+                    - img [ref=e348]
+            - generic [ref=e351]:
+              - generic "曝字节跳动2025年净利润骤降超70% AI算力采购成“吞金兽”" [ref=e352] [cursor=pointer]
+              - generic [ref=e354]:
+                - link "手机中国" [ref=e355]:
+                  - /url: https://news.qq.com/omn/author/8QMc3nha5YcavDbQ
+                - generic [ref=e356]: 11小时前
+            - generic [ref=e360]:
+              - generic "最全AI Coding Plan和Token购买攻略：大厂价格一站汇总" [ref=e361] [cursor=pointer]
+              - generic [ref=e363]:
+                - link "程序员晚枫" [ref=e364]:
+                  - /url: https://news.qq.com/omn/author/8QIf3n5f74casD%2FR7wQ%3D
+                - generic [ref=e365]: 昨天
+            - generic [ref=e369]:
+              - generic "ChatGPT Image 2 疑似灰度，审美暴击 Banana 2" [ref=e370] [cursor=pointer]
+              - generic [ref=e372]:
+                - link "G人工智能" [ref=e373]:
+                  - /url: https://news.qq.com/omn/author/8QMc339c7oYfujbd7wN5
+                - generic [ref=e374]: 11小时前
+            - generic [ref=e378]:
+              - generic "02｜平台篇：国外开发者如何选择中国大模型 API？价格、能力与门槛全对比" [ref=e379] [cursor=pointer]
+              - generic [ref=e381]:
+                - link "AI研究员" [ref=e382]:
+                  - /url: https://news.qq.com/omn/author/8QMc339d5IcbujrQ4ANz
+                - generic [ref=e383]: 12小时前
+            - generic [ref=e387]:
+              - generic "跑分第一，推理暴跌！Claude Opus 4.7上线48小时口碑崩了" [ref=e388] [cursor=pointer]
+              - generic [ref=e390]:
+                - link "新智元" [ref=e391]:
+                  - /url: https://news.qq.com/omn/author/8QMc2Hpa6oYVujjQ
+                - generic [ref=e392]: 4评论
+                - generic [ref=e393]: 前天
+            - generic [ref=e399] [cursor=pointer]:
+              - generic [ref=e400]:
+                - img [ref=e401]
+                - img [ref=e402]
+                - img [ref=e403]
+                - generic [ref=e405]: 00:20
+              - generic [ref=e406]:
+                - generic [ref=e407]: 5.1-3深圳福田会展中心逛车展！看新车拍超模、遛娃薅礼避开人潮
+                - generic [ref=e408]:
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: 广告
+                    - generic [ref=e411]: 深圳五一汽车消费乐活节
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: 了解详情
+                    - img [ref=e414]
+            - generic [ref=e417]:
+              - generic "Claude进了Word，Pro和Max都能用" [ref=e418] [cursor=pointer]
+              - generic [ref=e420]:
+                - link "赛博禅心" [ref=e421]:
+                  - /url: https://news.qq.com/omn/author/8QIf3n9U5I0buzbd4wc%3D
+                - generic [ref=e422]: 3评论
+                - generic [ref=e423]: 昨天
+            - generic [ref=e427]:
+              - generic "token，让中国大模型成为赢家" [ref=e428] [cursor=pointer]
+              - generic [ref=e430]:
+                - link "凤凰网" [ref=e431]:
+                  - /url: https://news.qq.com/omn/author/8QIf3nxe6oQYvzzZ4Qs%3D
+                - generic [ref=e432]: 1评论
+                - generic [ref=e433]: 13小时前
+      - generic "文章评论区" [ref=e436]:
+        - generic [ref=e437]:
+          - generic [ref=e438]:
+            - generic [ref=e439]: 评论 4
+            - generic [ref=e440]:
+              - text: 文明上网理性发言，请遵守
+              - link "《新闻评论服务协议》" [ref=e441] [cursor=pointer]:
+                - /url: https://h5.news.qq.com/static/coralinfo.htm
+          - generic [ref=e445]:
+            - text: 请先
+            - generic [ref=e446] [cursor=pointer]: 登录
+            - text: 后发表评论~
+          - generic [ref=e448]:
+            - img "头像" [ref=e451] [cursor=pointer]
+            - generic [ref=e452]:
+              - generic [ref=e453]:
+                - generic [ref=e455] [cursor=pointer]: �倪༵༻大鳅儿༻���
+                - generic [ref=e456] [cursor=pointer]:
+                  - generic [ref=e457]: "1"
+                  - img [ref=e458]
+              - generic [ref=e462]: 我们公司做活动策划的小李用Claude Design十分钟搞定了以往要熬三天的活动提案PPT直接发给客户还挺满意这工具对非专业选手太友好了
+              - generic [ref=e463]:
+                - generic [ref=e464]:
+                  - generic [ref=e465]: 浙江网友
+                  - text: 前天
+                - generic [ref=e470] [cursor=pointer]: 回复
+                - img [ref=e472] [cursor=pointer]
+          - generic [ref=e474]:
+            - img "头像" [ref=e477] [cursor=pointer]
+            - generic [ref=e478]:
+              - generic [ref=e479]:
+                - generic [ref=e481] [cursor=pointer]: pc-mouse
+                - img [ref=e483] [cursor=pointer]
+              - generic [ref=e487]: 我觉得很难替代专业设计软件，因为无法控制尺寸和细节
+              - generic [ref=e488]:
+                - generic [ref=e489]:
+                  - generic [ref=e490]: 上海网友
+                  - text: 昨天
+                - generic [ref=e495] [cursor=pointer]: 回复
+                - img [ref=e497] [cursor=pointer]
+          - generic [ref=e498]:
+            - generic [ref=e499]:
+              - img "头像" [ref=e502] [cursor=pointer]
+              - generic [ref=e503]:
+                - generic [ref=e504]:
+                  - generic [ref=e506] [cursor=pointer]: Polaris
+                  - img [ref=e508] [cursor=pointer]
+                - generic [ref=e512]: 这工具真能让小白成设计师？
+                - generic [ref=e513]:
+                  - generic [ref=e514]:
+                    - generic [ref=e515]: 上海网友
+                    - text: 前天
+                  - generic [ref=e520] [cursor=pointer]: 回复
+                  - img [ref=e522] [cursor=pointer]
+            - generic [ref=e525]:
+              - img "头像" [ref=e528] [cursor=pointer]
+              - generic [ref=e529]:
+                - generic [ref=e530]:
+                  - generic [ref=e532] [cursor=pointer]: ▓偏方︶ㄣ
+                  - img [ref=e534] [cursor=pointer]
+                - generic [ref=e538]: 一版不满意就再来一版！
+                - generic [ref=e539]:
+                  - generic [ref=e540]:
+                    - generic [ref=e541]: 陕西网友
+                    - text: 前天
+                  - generic [ref=e546] [cursor=pointer]: 回复
+                  - img [ref=e548] [cursor=pointer]
+          - generic [ref=e550] [cursor=pointer]:
+            - img "广告图标" [ref=e552]
+            - paragraph [ref=e553]: 红杉树金牌设计师广告
+            - paragraph [ref=e554]: 88㎡房子最快3个月就装完 效果非常赞，提前算报价省下一半预算
+            - generic [ref=e557]:
+              - generic [ref=e559]:
+                - img "Thumbplayer Poster Plugin Image" [ref=e560]
+                - text: ": : : : : : : : : : : : : : : : :"
+              - generic [ref=e567]: 00:47
+              - img [ref=e569]
+              - img [ref=e573]
+            - generic [ref=e577]:
+              - generic [ref=e578]: 了解详情
+              - generic [ref=e579]: 负反馈
+          - generic [ref=e580]: 已显示所有评论
+      - contentinfo "腾讯网版权底部" [ref=e582]:
+        - generic [ref=e583]:
+          - link "关于腾讯" [ref=e584]:
+            - /url: https://www.tencent.com/zh-cn/
+          - text: "|"
+          - link "About Tencent" [ref=e585]:
+            - /url: https://www.tencent.com/en-us/index.html
+          - text: "|"
+          - link "服务协议" [ref=e586]:
+            - /url: https://h5.news.qq.com/static/contract.shtml
+          - text: "|"
+          - link "隐私政策" [ref=e587]:
+            - /url: https://privacy.qq.com/mb/policy/tencent-privacypolicy
+          - text: "|"
+          - link "开放平台" [ref=e588]:
+            - /url: https://open.tencent.com/
+          - text: "|"
+          - link "广告服务" [ref=e589]:
+            - /url: https://e.qq.com/ads/
+          - text: "|"
+          - link "腾讯招聘" [ref=e590]:
+            - /url: https://hr.tencent.com/
+          - text: "|"
+          - link "腾讯公益" [ref=e591]:
+            - /url: https://gongyi.qq.com/
+          - text: "|"
+          - link "QQ浏览器" [ref=e592]:
+            - /url: https://browser.qq.com/?from=qqnews
+          - text: "|"
+          - link "腾讯频道" [ref=e593]:
+            - /url: https://pd.qq.com/?from=qqnews
+          - text: "|"
+          - link "客服中心" [ref=e594]:
+            - /url: https://service.qq.com/
+        - generic [ref=e595]: Copyright © 1998 - 2026 Tencent. All Rights Reserved
+        - generic [ref=e596]:
+          - link "腾讯公司" [ref=e597]:
+            - /url: https://www.tencent.com/
+          - link "版权所有" [ref=e598]:
+            - /url: https://www.tencent.com/zh-cn/le/copyrightstatement.shtml
+    - text: ": : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :"
+  - generic [ref=e599]:
+    - link "返回首页" [ref=e600] [cursor=pointer]:
+      - /url: https://www.qq.com
+      - img [ref=e601]
+      - generic [ref=e604]: 首页
+    - generic "页面刷新" [ref=e605] [cursor=pointer]:
+      - img [ref=e606]
+      - generic [ref=e610]: 刷新
+    - generic "意见反馈" [ref=e611] [cursor=pointer]:
+      - img [ref=e612]
+      - generic [ref=e618]: 反馈
+    - generic "更多设置" [ref=e619] [cursor=pointer]:
+      - img [ref=e620]
+      - generic [ref=e624]: 更多
+    - generic "返回页面顶部":
+      - img
+      - generic: 顶部

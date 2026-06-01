@@ -1,0 +1,22 @@
+{
+  "name": "doc-translator",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "postinstall": "node patch-ralph.mjs",
+    "translate": "node translate.mjs",
+    "translate:cc": "node translate-cc.mjs",
+    "translate:cc:p1": "node translate-cc.mjs --priority 1",
+    "translate:cc:one": "node translate-cc.mjs --one",
+    "translate:cc:dry": "node translate-cc.mjs --dry-run",
+    "dry-run": "DRY_RUN=1 node translate.mjs",
+    "status": "node status.mjs"
+  },
+  "dependencies": {
+    "ralph-loop-agent": "^0.0.3",
+    "@ai-sdk/anthropic": "latest",
+    "ai": "latest",
+    "zod": "^4.1.8"
+  }
+}

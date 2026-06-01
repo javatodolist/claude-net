@@ -1,0 +1,120 @@
+import type { DefaultTheme } from 'vitepress'
+
+export const claudeCodeOfficialSidebar: DefaultTheme.SidebarItem[] = [
+  {
+    text: 'Claude Code 官方文档',
+  },
+  {
+    text: '快速开始',
+    collapsed: false,
+    items: [
+      { text: '概览', link: '/claude-code-official/overview' },
+      { text: '快速入门', link: '/claude-code-official/quickstart' },
+      { text: '变更日志', link: '/claude-code-official/changelog' },
+    ],
+  },
+  {
+    text: '核心概念',
+    collapsed: false,
+    items: [
+      { text: 'Claude Code 如何工作', link: '/claude-code-official/how-claude-code-works' },
+      { text: '扩展功能概览', link: '/claude-code-official/features-overview' },
+      { text: '常见工作流', link: '/claude-code-official/common-workflows' },
+      { text: '最佳实践', link: '/claude-code-official/best-practices' },
+    ],
+  },
+  {
+    text: '平台和集成',
+    collapsed: true,
+    items: [
+      { text: '远程控制', link: '/claude-code-official/remote-control' },
+      { text: 'Web 端', link: '/claude-code-official/claude-code-on-the-web' },
+      { text: '桌面应用入门', link: '/claude-code-official/desktop-quickstart' },
+      { text: 'Desktop 桌面应用', link: '/claude-code-official/desktop' },
+      { text: 'Chrome 浏览器', link: '/claude-code-official/chrome' },
+      { text: 'VS Code', link: '/claude-code-official/vs-code' },
+      { text: 'JetBrains IDEs', link: '/claude-code-official/jetbrains' },
+      { text: 'GitHub Actions', link: '/claude-code-official/github-actions' },
+      { text: 'GitLab CI/CD', link: '/claude-code-official/gitlab-ci-cd' },
+      { text: 'Slack', link: '/claude-code-official/slack' },
+    ],
+  },
+  {
+    text: '使用 Claude Code 构建',
+    collapsed: true,
+    items: [
+      { text: '自定义子代理', link: '/claude-code-official/sub-agents' },
+      { text: 'Agent 团队编排', link: '/claude-code-official/agent-teams' },
+      { text: '创建插件', link: '/claude-code-official/plugins' },
+      { text: '发现和安装插件', link: '/claude-code-official/discover-plugins' },
+      { text: 'Skills 技能', link: '/claude-code-official/skills' },
+      { text: '输出样式', link: '/claude-code-official/output-styles' },
+      { text: 'Hooks 钩子指南', link: '/claude-code-official/hooks-guide' },
+      { text: 'Headless 编程运行', link: '/claude-code-official/headless' },
+      { text: 'MCP 连接工具', link: '/claude-code-official/mcp' },
+      { text: '故障排除', link: '/claude-code-official/troubleshooting' },
+    ],
+  },
+  {
+    text: '部署',
+    collapsed: true,
+    items: [
+      { text: '第三方集成', link: '/claude-code-official/third-party-integrations' },
+      { text: 'Amazon Bedrock', link: '/claude-code-official/amazon-bedrock' },
+      { text: 'Google Vertex AI', link: '/claude-code-official/google-vertex-ai' },
+      { text: 'Microsoft Foundry', link: '/claude-code-official/microsoft-foundry' },
+      { text: '企业网络配置', link: '/claude-code-official/network-config' },
+      { text: 'LLM 网关配置', link: '/claude-code-official/llm-gateway' },
+      { text: '开发容器', link: '/claude-code-official/devcontainer' },
+    ],
+  },
+  {
+    text: '管理',
+    collapsed: true,
+    items: [
+      { text: '高级设置', link: '/claude-code-official/setup' },
+      { text: '身份验证', link: '/claude-code-official/authentication' },
+      { text: '安全', link: '/claude-code-official/security' },
+      { text: '服务器管理设置', link: '/claude-code-official/server-managed-settings' },
+      { text: '数据使用', link: '/claude-code-official/data-usage' },
+      { text: '零数据保留', link: '/claude-code-official/zero-data-retention' },
+      { text: '监控使用', link: '/claude-code-official/monitoring-usage' },
+      { text: '管理成本', link: '/claude-code-official/costs' },
+      { text: '使用分析', link: '/claude-code-official/analytics' },
+      { text: '插件市场', link: '/claude-code-official/plugin-marketplaces' },
+    ],
+  },
+  {
+    text: '配置',
+    collapsed: true,
+    items: [
+      { text: '设置', link: '/claude-code-official/settings' },
+      { text: '权限配置', link: '/claude-code-official/permissions' },
+      { text: '沙箱', link: '/claude-code-official/sandboxing' },
+      { text: '终端设置优化', link: '/claude-code-official/terminal-config' },
+      { text: '模型配置', link: '/claude-code-official/model-config' },
+      { text: '快速模式', link: '/claude-code-official/fast-mode' },
+      { text: '内存管理', link: '/claude-code-official/memory' },
+      { text: '状态行定制', link: '/claude-code-official/statusline' },
+      { text: '键盘快捷方式', link: '/claude-code-official/keybindings' },
+    ],
+  },
+  {
+    text: '参考',
+    collapsed: true,
+    items: [
+      { text: 'CLI 参考', link: '/claude-code-official/cli-reference' },
+      { text: '交互模式', link: '/claude-code-official/interactive-mode' },
+      { text: '检查点', link: '/claude-code-official/checkpointing' },
+      { text: 'Hooks 钩子参考', link: '/claude-code-official/hooks' },
+      { text: '插件参考', link: '/claude-code-official/plugins-reference' },
+    ],
+  },
+  {
+    text: '资源',
+    collapsed: true,
+    items: [
+      { text: '法律和合规', link: '/claude-code-official/legal-and-compliance' },
+    ],
+  },
+]

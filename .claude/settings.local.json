@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(npm run:*)",
+      "Bash(NODE_OPTIONS=--max-old-space-size=12288 npx vitepress build docs)",
+      "Bash(pnpm:*)",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/Claude-Code国内使用方案技术拆解-三种路线怎么选.md\" \"G:/work_for_job/workspace/ai80-net/docs/claude-domestic/Claude-Code国内使用方案技术拆解-三种路线怎么选.md\")",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/国内用Claude-Code就三条路-一篇帮你选对.md\" \"G:/work_for_job/workspace/ai80-net/docs/claude-domestic/国内用Claude-Code就三条路-一篇帮你选对.md\")",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/2026-04-02/Claude-国内怎么用最省事-官网订阅-直连平台和第三方入口一篇帮你理清楚.md\" \"G:/work_for_job/workspace/ai80-net/docs/claude-domestic/Claude-国内怎么用最省事-官网订阅-直连平台和第三方入口一篇帮你理清楚.md\")",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/2026-04-02/Claude-Code-国内安装使用完整教程.md\" \"G:/work_for_job/workspace/ai80-net/docs/claude-domestic/Claude-Code-国内安装使用完整教程.md\")",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/2026-04-02/Codex-国内怎么用才省事-官方账号到-Code80-CLI-一篇讲清楚稳定玩法.md\" \"G:/work_for_job/workspace/ai80-net/docs/codex-domestic/Codex-国内怎么用才省事-官方账号到-Code80-CLI-一篇讲清楚稳定玩法.md\")",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/2026-04-10/Claude Code国内用不了？三种方案一次讲清楚（含拼车价格和API接入）.md\" \"G:/work_for_job/workspace/ai80-net/docs/claude-domestic/Claude-Code国内用不了？三种方案一次讲清楚（含拼车价格和API接入）.md\")",
+      "Bash(cp \"G:/work_for_job/workspace/cc_docs/05-新闻资讯/2026-04-10/Claude Code本地跑起来：从安装到第一次对话的完整步骤.md\" \"G:/work_for_job/workspace/ai80-net/docs/claude-domestic/Claude-Code本地跑起来：从安装到第一次对话的完整步骤.md\")",
+      "Bash(python:*)",
+      "Bash(node:*)",
+      "Bash(npx vitepress:*)",
+      "Bash(ln -s ../../public/images/claude-code-solosass-template docs/.vitepress/public/images/claude-code-solosass-template)",
+      "Bash(ln -s ../../public/images/Claude-Code-LSP-功能详解 docs/.vitepress/public/images/Claude-Code-LSP-功能详解)",
+      "Bash(rm -f docs/.vitepress/public/images/claude-code-solosass-template docs/.vitepress/public/images/Claude-Code-LSP-功能详解)",
+      "Bash(ln -s ../../../public/images/claude-code-solosass-template docs/.vitepress/public/images/claude-code-solosass-template)",
+      "Bash(ln -s ../../../public/images/Claude-Code-LSP-功能详解 docs/.vitepress/public/images/Claude-Code-LSP-功能详解)",
+      "Bash(cp:*)",
+      "Bash(npm ls:*)",
+      "Bash(NODE_OPTIONS=--max-old-space-size=12288 pnpm exec vitepress build docs)",
+      "Bash(npm install:*)",
+      "Bash(command -v python3)",
+      "Bash(command -v node)",
+      "Bash(command -v ruby)",
+      "Bash(command -v perl)"
+    ]
+  }
+}
