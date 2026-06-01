@@ -27,7 +27,8 @@
       "Bash(command -v python3)",
       "Bash(command -v node)",
       "Bash(command -v ruby)",
-      "Bash(command -v perl)"
+      "Bash(command -v perl)",
+      "Bash(gh auth:*)"
     ]
   }
 }
