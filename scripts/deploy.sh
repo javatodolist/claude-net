@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# ai80.net 部署脚本
+# claude.it8090.cn 部署脚本
 # 本地构建，上传静态文件到服务器，原子替换
 #
 
@@ -13,9 +13,9 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # 默认配置
-REMOTE_HOST="YOUR_SERVER_IP"
+REMOTE_HOST="1.13.182.252"
 REMOTE_USER="root"
-REMOTE_DIR="/www/wwwroot/ai80.net"
+REMOTE_DIR="/www/wwwroot/claude.it8090.cn"
 SSH_KEY=""
 
 # 加载本地配置（不提交到 git）
@@ -59,7 +59,7 @@ scp_cmd() {
 main() {
     echo ""
     echo "=============================================="
-    echo "   ai80.net 部署"
+    echo "   claude.it8090.cn 部署"
     echo "=============================================="
     echo ""
 
@@ -218,7 +218,7 @@ REMOTEOF
     print_success "部署完成"
     echo "=============================================="
     echo ""
-    echo "访问地址: https://ai80.net"
+    echo "访问地址: https://claude.it8090.cn"
     echo ""
 }
 

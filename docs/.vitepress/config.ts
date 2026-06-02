@@ -8,7 +8,7 @@ import { nav } from './nav'
 import { sidebar } from './sidebar'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const SITE_URL = 'https://claude.net'
+const SITE_URL = 'https://claude.it8090.cn'
 const SITE_NAME = 'Claude中文网'
 const SITE_DESCRIPTION = '面向国内用户的 Claude 中文指南，系统整理 Claude 国内使用、Claude Code 安装、Claude API 接入、订阅付款、封号避坑、提示词和 AI 编程工作流。'
 const DEFAULT_IMAGE = `${SITE_URL}/logo.png`
