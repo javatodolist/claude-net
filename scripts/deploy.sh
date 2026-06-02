@@ -12,10 +12,10 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
-# 默认配置
-REMOTE_HOST="1.13.182.252"
+# 默认配置（真实值请写入 deploy.local.conf，不提交到 git）
+REMOTE_HOST="YOUR_SERVER_IP"
 REMOTE_USER="root"
-REMOTE_DIR="/www/wwwroot/claude.it8090.cn"
+REMOTE_DIR="/www/wwwroot/YOUR_DOMAIN"
 SSH_KEY=""
 
 # 加载本地配置（不提交到 git）

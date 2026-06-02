@@ -3,7 +3,7 @@
 
 REMOTE_HOST="YOUR_SERVER_IP"
 REMOTE_USER="root"
-REMOTE_DIR="/www/wwwroot/ai80.net"
+REMOTE_DIR="/www/wwwroot/YOUR_DOMAIN"
 # SSH_KEY="~/.ssh/id_rsa"  # 可选，指定 SSH 密钥
 
 # 百度站长平台「普通收录」主动推送 token（可选）
