@@ -93,7 +93,7 @@ export default withMermaid(
         `var _hmt = _hmt || [];
         (function() {
           var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?038376204bd04ad49c45752c8f9e980e";
+          hm.src = "https://hm.baidu.com/hm.js?50ae2c2773c4a482cbcc87eaed1b937c";
           var s = document.getElementsByTagName("script")[0];
           s.parentNode.insertBefore(hm, s);
         })();`
