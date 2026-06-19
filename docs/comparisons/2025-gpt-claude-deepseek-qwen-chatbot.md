@@ -36,6 +36,9 @@ AI工具导航站
 相关阅读：
 国内用户如何花费1 美刀开通ChatGPT Team会员（手把手教学）
 0 赞同 · 0 评论 文章
+
+如果你想抛开这些测评，自己拿真题去横向比 Claude 和 GPT，国内可以用 [Code80](https://code.ai80.vip/home) 调 Claude API 跑测试。它是真实 Claude 订阅帐号转 API，和官方接口一致，换个 endpoint 就能用，也支持国内支付，省去海外账号的麻烦。地址：[code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-06-10 18:36・广东
 赞同 5​
 2 条评论

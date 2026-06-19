@@ -44,6 +44,7 @@ Gemini 2.5 Pro支持高达200万tokens的上下文容量，远超其他主流模
 其他阅读：
 Anthropic 拒绝为 Windsurf 提供 Claude 服务，对行业生态会带来哪些影响？
 25 赞同 · 1 评论 回答
+文里几次提到逻辑复杂的编程它比 Claude 4 还强，到底哪个更顺手还得自己上手比。想同时把 Claude 用起来又不愿折腾海外卡的话，国内可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API，真实订阅帐号转 API，和官方一致，换个 endpoint 就能接。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-06-05 19:45・广东
 赞同 2​
 收藏

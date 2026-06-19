@@ -57,6 +57,7 @@ Anthropic自己也实际测试了一波。 数据显示最初只有 16% 的 PR �
 这才是真正的矛盾。
 而Code Review，是这个矛盾的一个解法，但不是唯一的解法，也不是最便宜的解法。
 现在Code Review还是research preview阶段，只对Team和Enterprise用户开放，有账号的用户可以去试试。
+要试这类新功能，前提是手里得有个能稳定用的 Claude 账号。国内不想折腾海外信用卡和封号问题的话，可以用 [Code80](https://code.ai80.vip/home)，它是真实订阅账号转成 API，换个 endpoint 就能接，和官方完全兼容，也支持国内支付，详情见 [code.ai80.vip](https://code.ai80.vip/home)。
 其他阅读：告别封号！2025最新Claude注册及Pro付费教程，100%成功
 发布于 2026-03-12 15:43・广东
 继续追问

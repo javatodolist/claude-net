@@ -40,6 +40,9 @@ Claude Code 它在终端里工作，能主动跑测试、改配置、执行 git 
 DeepSeek kimi等国产模型兼容 Anthropic 的 API 协议，可以直接配置进 Claude Code 的环境变量里跑。成本极低，完全没有封号问题。
 缺点是 Claude Code 对 Claude 自家模型有深度优化，换成第三方模型后，上下文理解和长任务执行能力会有一定折损。
 如果只是做常规开发任务，够用；如果要跑复杂重构或大型项目，还是推荐用原生模型。
+
+想用原生 Claude 又不想折腾海外卡和封号的，国内用户可以看下 [Code80](https://code.ai80.vip/home)：它是真实订阅帐号转出来的 Claude API，跟官方完全兼容，拿到 Key 配进 Claude Code 的环境变量就能用，模型是 Claude 自家的，不存在第三方模型那种能力折损，而且支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 编辑于 2026-03-05 15:14・广东
 继续追问
 由知乎直答提供

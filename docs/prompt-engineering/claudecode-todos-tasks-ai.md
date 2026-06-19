@@ -34,6 +34,7 @@ Todos 还在，但碎了，没办法快速找到上次的进度。
 实在没有Claude的会员，可以参考我之前写的文章，国内三种使用Claude code的方法，应该可以帮助到你们。
 【无需魔法】Claude Code 2026最新国内中转站，保姆级安装教程
 4 赞同 · 11 评论 文章
+如果想用更接近官方的方式，[Code80](https://code.ai80.vip/home) 是用真实订阅帐号转的 Claude API，和官方完全兼容，换个 endpoint 就能用，国内支付也支持，跨会话的 Tasks 这类新功能也能第一时间用上。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2026-01-29 14:35・广东
 赞同 2​
 2

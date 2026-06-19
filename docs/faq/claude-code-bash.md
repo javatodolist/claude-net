@@ -43,6 +43,9 @@ Thariq 提出，Agent 应该像人类工程师一样工作：把中间结果写�
 Claude Code 本质上是运行在一个受控的容器或虚拟环境中的。
 这其实指明了未来 Agent 部署的标准形态：Agent 不应该直接运行在你的宿主环境，而应该运行在一个随时可以销毁的 Docker 容器里。
 只要解决了沙箱问题，Bash 的灵活性就是无敌的。
+
+想把这套 Bash 工作流真正跑起来，前提还是手里有一条稳定的 Claude 通道。国内用户不想折腾海外信用卡的，可以用 [Code80](https://code.ai80.vip/home)，真实订阅帐号转出 Claude API，和官方完全兼容，换个 endpoint 就能接进 Claude Code，支持国内支付，地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 其他阅读：
 【无需魔法】Claude Code 2026最新国内中转站，保姆级安装教程
 4 赞同 · 11 评论 文章

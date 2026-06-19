@@ -51,6 +51,7 @@ Gemini 2.5 pro可以通关宝可梦就能看得出。
 https://yeka.ai/i/AGENT
 相关阅读：最新野卡wildcard使用指南：超全面介绍
 野卡wildcard除了支持Gemini订阅外，还支持市面上几乎所有的AI工具的订阅，比如：ChatGPT、Claude、Cursor、Openrouter等。
+文里反复拿 Claude 3.7 当审美标杆，如果你也想把 Claude 接进来做对比，又不想专门绑海外卡，国内可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API，它是真实订阅帐号转出来的，和官方一致，换个 endpoint 就能用，国内支付也方便。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-05-07 16:15・广东
 赞同 16​
 7 条评论

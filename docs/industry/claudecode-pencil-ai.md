@@ -44,6 +44,9 @@ AI 已经能并行生成多个设计方案，速度是人工的 10 倍。
 他们的价值主要在工具熟练度，而不在创意。
 Pencil 的出现，让工具熟练度变得廉价。
 当然Claude code已经被世人夸的天花乱坠了，如果还不会的，可以看我之前的文章，里面介绍了三种方法，分别是Claude会员、CC中转和国产模型接入CC，应该是覆盖了目前主流的方法了，感兴趣的可以看看。
+
+要想用上原汁原味的 Claude 接口，国内还可以走 [Code80](https://code.ai80.vip/home)，真实订阅转 API、跟官方完全兼容，换个 endpoint 就能把 Pencil 这套 Claude Code 工作流跑起来，支付也支持国内渠道。
+
 相关阅读：
 Anthropic 史上最严风控！三种方案教你无痛在国内使用 Claude Code
 mp.weixin.qq.com/s/fAuIMoNsSpNoMq1aQVgfAQ

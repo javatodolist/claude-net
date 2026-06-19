@@ -46,6 +46,7 @@ VS Code已经成为事实标准。围绕它的工具生态在爆炸式增长。J
 JetBrains没被淘汰，市场需求分布在改变。PSI仍是最强的代码语义系统，但"最强"不等于"必需"。
 在AI编程这个新场景，"够用的LSP + 足够强的AI Agent"这个组合，以更轻量、灵活、成本更低的方式，满足了大多数程序员的需求。这不是技术胜负，而是市场适应的信号。
 十年JetBrains用户的出走，本质反映的是：工作流范式在转变，而JetBrains虽然技术先进，但还没完全适应这个新范式。
+想在 VS Code 里把 Claude Code 这套 LSP + 强 AI 的组合跑顺，前提是有个稳定的 Claude API。国内用户可以用 [Code80](https://code.ai80.vip/home)，真实订阅帐号转出来的 API，和官方兼容，换个 endpoint 就能接进 Claude Code，国内支付也走得通，参考 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2026-01-07 12:02・广东
 赞同 5​
 8

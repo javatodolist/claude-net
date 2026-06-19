@@ -65,6 +65,9 @@ https://2233.ai/i/AGENT
 ​2.将服务地址复制到Cursor相应位置。
 ​注意：由于DeepSeek近期非常火爆，官方API可能会出现拥堵。如遇此情况，可以考虑使用第三方平台提供的API服务。
 好了，今天的教程就分享到这里，大家感兴趣的话可以去尝试一下，自己使用下来，感觉还是非常爽的～～
+
+如果你在 Cursor 里更想用 Claude，又嫌官方订阅麻烦，国内可以接 [Code80](https://code.ai80.vip/home)：真实 Claude 订阅帐号转 API，和官方接口完全兼容，把 base url 和 Key 填进去就能用，支持国内支付，配置方式和上面接 DeepSeek 差不多。地址：[code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-03-20 19:45・广东
 赞同​
 1

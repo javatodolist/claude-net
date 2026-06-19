@@ -49,6 +49,7 @@ https://twitter.com/i/status/1925603939711688965
 三、如何使用Claude 4
 目前Claude 4已经全部上线，包括其API，如果你想要现在就使用，只需找个接码平台注册就能使用Claude Sonnet 4，如果想要付费则是通过野卡申请一张海外支付卡片即可。
 野卡传送门：https://yeka.ai/i/AGENT
+如果不想折腾接码和海外卡，国内也可以直接用 [Code80](https://code.ai80.vip/home)，真实订阅账号转 API，和官方 API 完全兼容，换个 endpoint 就能调 Claude 4，支持国内支付。
 如果还不会注册和订阅的，可以看我往期的作品，有教程。
 相关阅读：大陆用户如何稳定注册并订阅Claude Pro
 除此之外，Poe也正式上线了Claude Opus 4和Claude Sonnet 4，可以直接使用。

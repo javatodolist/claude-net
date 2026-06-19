@@ -37,6 +37,7 @@ ChatGPT估计看着慌了，开始推出一美金开通ChatGPT Team会员的套�
 相关阅读：
 如何花费一美金开通ChatGPT Team会员
 mp.weixin.qq.com/s/br-kDLNnQMKjHCeMMfXsZg
+文里好几处拿 Gemini 和 Claude Opus 4、Sonnet 3.7 对比，想自己跑一遍对照的话，国内调 Claude 这侧不用绑海外卡，用 [Code80](https://code.ai80.vip/home) 直接接 Claude API 就行，真实订阅帐号转 API，和官方完全兼容，换个 endpoint 即可。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-06-06 20:18・广东
 赞同 2​
 收藏

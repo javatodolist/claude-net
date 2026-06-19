@@ -20,6 +20,9 @@ AI工具导航站
 实际体验下来，单Claude 4 Sonnet的能力就比GPT-5更好，我是在Claude code上使用的。
 还有就是，GPT-5的编程能力的确提高了不少，特别是在提示词遵循和解决问题的能力上。
 如果是程序员朋友看到这篇文章，自己去体验一下就知道了，因为谁好，谁差，自己心里比较一番就出来了，无非就多一个月的会员钱而已。
+
+想在 Claude Code 上实测 Claude 4 Sonnet 的，国内嫌注册订阅麻烦的话，可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API，真实订阅账号转出来的，和官方完全兼容，换个 endpoint 就能用，也支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-08-15 19:23・广东
 赞同 3​
 3 条评论

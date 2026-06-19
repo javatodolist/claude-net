@@ -55,6 +55,9 @@ google官方还有一个免费工具叫Gemini AI Studi，有免费的gemini 3 Pr
 每个人的需求不一样，没有绝对的「最好方案」，只有「最适合你的方案」。
 Gemini 3和Nano Banana确实是当下最强的AI工具，值得每个人都去体验一番。
 AI的世界日新月异，更新很快。如果你在使用过程中遇到问题，或者发现有更好的方案，欢迎在评论区分享。
+
+顺带一提，Gemini 3 适合生图和通用问答，但如果你的活儿主要是写代码，Claude 这边还是更顺手。国内想直接用 Claude API 又不想折腾海外环境的话，可以试试 [Code80](https://code.ai80.vip/home)，真实订阅账号转 API，换个 endpoint 就能接进 Claude Code，和官方一致，也支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-12-30 11:05・广东
 赞同​
 1

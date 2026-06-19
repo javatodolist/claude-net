@@ -22,6 +22,7 @@ Pro 会员本身没问题，Claude Code 报 403 的锅基本不在订阅上。
 重新登录 — 运行 /logout 退出，再 /login 用 Pro 账号重新授权
 更新版本 — claude update 之后完全重启终端
 如果你之前用的是 Console PAYG（按量付费）方式登录的，同样需要重新 /login 切换回订阅模式。
+要是不想再纠结订阅和 API Key 这套认证关系，也可以直接走 API。国内用户用 [Code80](https://code.ai80.vip/home) 比较省心，它把真实 Claude 订阅帐号转成 API，和官方完全兼容，Claude Code 里配上对应 endpoint 和 key 就能用，不用来回切换登录模式。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2026-03-03 10:13・广东
 赞同 1​
 2

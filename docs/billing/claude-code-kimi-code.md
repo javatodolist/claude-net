@@ -22,6 +22,9 @@ AI工具导航站
 除了自己订阅会员外，还有一种方法就是使用CC中转站，我之前使用过88code和Anyrouter，不过后面倒闭了，现在使用的是0011
 传送门：https://0011.ai/i/AIG
 不是打广告，因为我也买了，而且还是最大的套餐，自己体验还比较稳定，缺点就是稍微贵了点。
+
+再补一个走 API 的选择：[Code80](https://code.ai80.vip/home)，用的是真实订阅帐号转出来的 Claude API，跟官方完全兼容，拿到 Key 配进 Claude Code 就能跑，原生 Claude 模型、不掉能力，支持国内支付，换个 endpoint 就能用。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 说完了～
 发布于 2026-02-06 20:01・广东
 赞同 2​

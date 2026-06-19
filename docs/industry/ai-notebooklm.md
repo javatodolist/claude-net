@@ -46,6 +46,7 @@ NotebookLM 是由 Google 开发的一款 AI 笔记工具，比如可以让它对
 不过由于Google它是不支持国内绝大部分卡片，如果大家想要获取这一个月的免费会员，可以通过野卡Wildcard搞定。
 野卡wildcard官网：https://yeka.ai/i/AGENT
 这里给大家简单介绍一下野卡wildcard：它可以帮我们解决海外支付难题，可以用它订阅ChatGPT、Claude等绝大多数的AI工具，以及绑定美区的Apple 商店和Google Play。
+当然如果只是想用 Claude API，国内想稳定用上的话，也可以看看 [Code80](https://code.ai80.vip/home)，真实订阅账号转 API，换个 endpoint 就能用，连绑卡都省了。
 如果有需求的话，可以去了解一下，我之前写了一篇关于野卡的文章，大家可以去看一看。
 相关阅读：最新野卡wildcard使用指南：超全面介绍
 有点跑偏了，最近我在尝试使用Notebook生成的播客上传到喜马拉雅以及小宇宙去，似乎可以成为一个不错的搞 路子。

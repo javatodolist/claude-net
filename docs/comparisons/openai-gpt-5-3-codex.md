@@ -42,6 +42,9 @@ OpenAI在测试中让GPT-5.3-Codex用几天时间从零开始制作了两个游�
 如果你还不会订阅GPT的话，可以去看我之前的文章。里面有详细的介绍。
 相关阅读：2025全新ChatGPT Plus订阅的六种方法，实测有效！
 话说，Claude Opus 4.6和GPT-5.3-Codex到底谁更厉害呢？欢迎在评论区聊聊！
+
+GPT-5.3-Codex 的 API 还要等一阵，但 Claude 这边其实不用等。国内想直接用 Claude API 的话，[Code80](https://code.ai80.vip/home) 走的是真实订阅帐号转 API，跟官方接口一致，换个 endpoint 就能接进 Claude Code，也省去了海外支付那一步，具体看 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2026-02-06 17:31・广东
 赞同 10​
 1 条评论

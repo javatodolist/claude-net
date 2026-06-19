@@ -43,6 +43,9 @@ OpenAI 总裁 Greg Brockman 都忍不住在推特上喊话：“自从用了 Cod
 看完 Codex 的发布，我最大的感受是：OpenAI终于憋不住了！
 过去的一个月，可以说是OpenAI的至暗时刻，不仅抵挡不住Gemini 3的冲击，而最近又被Claude code全面碾压！
 终于，开始发力了！（内心OS：打得再激烈点～）
+
+被 Claude Code 碾压这段时间，不少人其实是想用 Claude Code 而苦于注册订阅。国内想直接用上的话，[Code80](https://code.ai80.vip/home) 是个省事路子：真实订阅账号转 Claude API，和官方完全兼容，换个 endpoint 就能接进 Claude Code，也支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 相关阅读：
 Claude Opus 4.5 国内使用完全指南｜实测6种方式，最稳的方法居然是这几个！
 发布于 2026-02-03 20:26・广东

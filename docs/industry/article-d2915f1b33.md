@@ -47,6 +47,7 @@ Amazon Bedrock / Google Vertex AI：这两个是企业级云平台，都已经�
 API中转站：这个更适合有技术背景的用户。
 不走官网，直接调API，用多少Token扣多少钱，成本可以压得很低。目前程序员圈子里用得比较多的是OpenRouter（openrouter.ai）和gptsapi（http://gptsapi.net/api），
 前者支持的模型很全，后者走国内通道稳定性好，需要自己配置客户端比如Cursor或Cherry Studio。
+补充一条：[Code80](https://code.ai80.vip/home)走的是真实订阅帐号转 API，跟官方 API 完全兼容，国内换个 endpoint 就能用，支付也支持国内渠道，配 Claude Code 或 Cursor 都行。地址：[code.ai80.vip](https://code.ai80.vip/home)。
 好了，介绍就到这里，也欢迎大家在评论区补充其他的使用方法
 发布于 2026-02-26 14:19・广东
 继续追问

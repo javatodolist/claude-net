@@ -67,6 +67,9 @@ Altman曾经说过"广告是ChatGPT最后的救命稻草"。
 但更值得警惕的，是这个模式本身，一个无法通过单一业务实现盈利的产品，最终注定要通过各种方式从用户身上挤取价值。
 广告只是开始罢了。
 最后大家可以讨论一下，OpenAI会被收购吗？
+
+如果 ChatGPT 加广告让你想多备一个选择，国内用 Claude 其实不难：[Code80](https://code.ai80.vip/home) 用真实 Claude 订阅帐号转 API，和官方接口完全兼容，换个 endpoint 就能调，也支持国内支付。想试 Claude 的可以看 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2026-01-20 16:10・广东
 赞同 2​
 收藏

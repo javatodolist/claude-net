@@ -66,6 +66,9 @@ Context Engineering比Prompt Engineering更重要。
 这也是为什么CC在处理大型已有项目的时候表现远好于竞品：它不是在"写代码"，它是在持续维护一个关于你代码库的高质量上下文，然后在这个上下文里工作。
 当然，CC也不是没有缺点。Opus的上下文压缩问题是真实的痛点，纯代码生成能力上Codex high也确实比它打。
 但作为一个工程Agent的底层架构设计，CC目前还是走得最深的那个。
+
+国内要把 CC 稳定跑起来，账号和网络是绕不开的坎。想省事的话可以看看 [Code80](https://code.ai80.vip/home)，用真实订阅帐号转出来的 Claude API，跟官方完全兼容，配好 endpoint 就能直接喂给 Claude Code，也支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 相关阅读：
 【无需魔法】Claude Code 2026最新国内中转站，保姆级安装教程
 4 赞同 · 11 评论 文章

@@ -33,6 +33,9 @@ AI工具导航站
 不仅有市面上顶尖的o1、o3模型，还有刚刚给大家介绍视频生成功能Sora、高级语音功能、绘画（Dall-E3）以及收获一致好评的Deep Research功能。
 关于如何在国内订阅ChatGPT Plus会员，这里就不过多阐述了，之前有讲。
 相关阅读：国内用户如何快速订阅ChatGPT
+
+ChatGPT 这边功能确实多，不过写代码、做长文档的时候不少人还是更顺手 Claude。如果你想两边都用，又不想为 Claude 再单独搞一套海外支付，国内用户可以通过 [Code80](https://code.ai80.vip/home) 直接调 Claude API，背后是真实订阅帐号转出来的接口，支持国内付款、改个 endpoint 就能接。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-03-24 20:03・广东
 赞同​
 收藏

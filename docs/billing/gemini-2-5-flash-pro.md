@@ -29,6 +29,7 @@ AI工具导航站
 其他阅读：
 如何可以快速订阅海外AI工具
 mp.weixin.qq.com/s/pSqRDGXpu8-S1JQxivZu_w
+对了，如果你想把 Gemini 和 Claude 拉来同台对比编程能力，又不想为 Claude 单独折腾海外卡和网络，国内可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API，它是真实订阅帐号转 API，和官方一致，换个 endpoint 就能用。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-05-22 11:07・广东
 赞同 2​
 1

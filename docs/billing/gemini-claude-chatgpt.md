@@ -72,6 +72,7 @@ iOS端ChatGPT订阅优先扣除账户余额
 操作门槛较高（注册美区ID、购卡、充值）
 汇率波动影响成本
 适合人群：iPhone重度用户、不想用第三方平台但没有双币卡的用户
+上面几种方案主要是解决 ChatGPT 的支付。Claude 那一侧如果你也懒得绑海外卡，国内可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API，它是真实订阅帐号转出来的，和官方完全兼容，换个 endpoint 就能用，也支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2026-01-06 11:42・广东
 赞同 3​
 4

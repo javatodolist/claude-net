@@ -49,6 +49,9 @@ OpenClaw的社区已经有5700多个Skill，覆盖浏览网页、管理日历、
 你问OpenClaw存在的核心价值是什么。
 我觉得就一句话：它是第一个真正把AI变成"常驻员工"而不是"随叫随到工具"的东西。
 这个区别，比任何功能列表都重要。
+
+不管你最后选 OpenClaw 还是 Claude Code，底下都得有个能用的 Claude API。国内用户如果嫌注册和海外支付麻烦，可以用 [Code80](https://code.ai80.vip/home)，它把真实订阅帐号转成 API，和官方一致，换个 endpoint 就能用，详情见 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2026-02-25 19:01・广东
 继续追问
 由知乎直答提供

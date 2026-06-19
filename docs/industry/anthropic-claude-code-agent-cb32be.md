@@ -44,6 +44,9 @@ Claude code详细介绍传送门：https://docs.anthropic.com/en/docs/claude-cod
 目前Pro套餐用户每5小时可以向Claude Code发送约10-40个提示（运行1～2小时），这个额度对于处理小型代码库（通常少于1000行代码）的轻量工作来说是完全够用的。
 对比之前的价格体系，这次的调整可以说是诚意满满。而Max套餐则可以使用更多。
 好了，今天的分享就到这里，欢迎大家在评论区分享自己的使用心得。
+
+补充一句，前面提到注册订阅这块比较麻烦。如果不想折腾海外号码和支付，国内用户也可以通过 [Code80](https://code.ai80.vip/home) 直接用 Claude API，真实订阅帐号转 API，换个 endpoint 就能接到 Claude Code 上，跟官方用法一致。详见 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-06-09 19:38・广东
 赞同 5​
 2

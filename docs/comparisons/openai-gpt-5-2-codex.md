@@ -51,6 +51,9 @@ Gemini 3 系列通过极高的推理能效比，硬生生地在 OpenAI 的护城
 或许，这场狙击战没有终点，而我们唯一可以确定的是：今年的迭代相比去年按上了加速度。
 那么，Gemini 3 Flash 和 GPT-5.2-Codex，你觉得到底谁更香？
 Gemini 3 Flash！！！
+
+补充一句：如果你最后还是想拿 Claude 来配合 Codex 一起用，又不想折腾海外信用卡和网络环境，国内用户可以通过 [Code80](https://code.ai80.vip/home) 直接调 Claude API，用的是真实订阅帐号转出来的接口，和官方完全兼容，换个 endpoint 就能跑，国内支付也支持。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-12-19 18:04・日本
 赞同 1​
 收藏

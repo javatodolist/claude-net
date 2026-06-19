@@ -46,6 +46,7 @@ Google 针对用户反馈，特别优化了模型的表达风格和格式控制�
 如何花费一美金就可以开通ChatGPT Team版会员（保姆级教程）
 mp.weixin.qq.com/s/br-kDLNnQMKjHCeMMfXsZg
 OpenAI此次活动针对的是谁？那肯定就是Google了，它们的积怨是最多的。
+三家轮着打，落到自己手里还是得看谁更顺手。想把 Claude 也拉进来对照又不愿绑海外卡的话，国内可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API，真实订阅帐号转 API，和官方一致，换个 endpoint 就能接，支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-06-06 19:38・广东
 赞同 2​
 收藏

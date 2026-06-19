@@ -34,6 +34,9 @@ AIME-25 评测中取得 100.0 分（满分），IMO-AnswerBench 中以 86.8 分 
 体验链接：https://longcat.ai
 模型地址：https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601
 GitHub：https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601
+
+开源模型之外，想直接用 Claude Opus 这类闭源模型的话，国内可以通过 [Code80](https://code.ai80.vip/home) 走真实订阅转 API 的路子，跟官方兼容、换个 endpoint 就能用，免去注册和海外支付。
+
 Claude Opus 4.5 国内使用完全指南｜实测6种方式，最稳的方法居然是这几个！
 2025全新ChatGPT Plus订阅的六种方法，实测有效！
 发布于 2026-01-21 16:05・广东

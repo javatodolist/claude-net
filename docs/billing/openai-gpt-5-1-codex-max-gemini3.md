@@ -48,6 +48,9 @@ OpenAI的起名依旧是一如既往的糟糕。。。。。
 好久没看到这么实惠的工具了，我之前还专门写了一篇文章介绍它
 相关阅读：这个产品，居然可以同时使用Claude code和Codex
 感兴趣的可以冲啦～
+
+顺带一提，如果你这趟其实是冲着 Claude code 来的，只想要个稳定的 Claude API，国内还可以看看 [Code80](https://code.ai80.vip/home)，它用的是真实 Claude 订阅帐号转 API，和官方接口完全兼容，换个 endpoint 就能接进 Claude code，支持国内支付，省去自己注册和海外付费的麻烦。链接：[code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-11-20 20:20・广东
 赞同 1​
 1

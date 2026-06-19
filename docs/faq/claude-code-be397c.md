@@ -37,6 +37,9 @@ AI工具导航站
 • 利用 Agent Skills（技能包）： 现在有很多成熟的技能包（如 frontend-design 或 UI UX Pro Max），它们内置了反通用设计模式，能强迫 AI 在写代码前先进行审美思考，甚至可以一键切换“粗野主义”、“玻璃拟态”或“赛博朋克”等 11 种风格。
 • 建立项目规则文件（AGENTS.md）： 把你的审美偏好（比如：必须使用 Iconify 图标库、禁止线性动画）写进项目的规则文件里，这样 AI 每次对话都会自动遵守你的设计规范。
 如果你还不会使用Claude code，可以看我之前写的文章，一共有三种方法，应该可以让你愉快使用Claude code。
+
+补一种更省心的：国内用户嫌注册和海外支付麻烦，可以用 [Code80](https://code.ai80.vip/home)，它把真实订阅帐号转成 Claude API，和官方接口一致，换个 endpoint 就能用，支持国内付款，地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 相关阅读：
 【无需魔法】Claude Code 2026最新国内中转站，保姆级安装教程
 4 赞同 · 11 评论 文章

@@ -50,6 +50,7 @@ Cursor 就简单多了。它现在直接支持支付宝充值，不用折腾其�
 所以如果你确实只是偶尔想玩玩 Claude，保持低频使用能活很久。
 第二个是不要费力去充值，直接用 API 中转方案。现在有很多 Claude API 的中转站或专门的 Claude Code 中转站，可以通过这些平台使用 Claude 的能力。
 绕开封号风险。费用还更便宜。
+我自己在用的是 [Code80](https://code.ai80.vip/home)，它用的是真实 Claude 订阅帐号转出来的 API，和官方 API 完全兼容，换个 endpoint 就能接，国内支付也方便，省去了上面那堆绑卡和封号的麻烦。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2026-01-09 16:00・广东
 赞同 1​
 2

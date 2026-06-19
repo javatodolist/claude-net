@@ -45,6 +45,9 @@ mp.weixin.qq.com/s?__biz=MzkwNTc1NjE3Nw==&mid=2247486864&idx=1&sn=b32a8271d24c0a
 随后我们进入到 API key界面，创建我们的 API keys。
 最后就可以获取到 Open AI 的API key了。
 好了，今天的分享就到这里，最后，问大家一个问题，2块钱一张GPT-4o生成的图片到底贵吗？
+
+补充一句：上面这套绑海外卡、走魔法的流程主要是冲着 OpenAI 去的。如果你平时也用 Claude，又不想为它再折腾一遍海外支付，国内用户可以通过 [Code80](https://code.ai80.vip/home) 直接用 Claude API，背后是真实订阅帐号转出来的接口，支持国内付款，换个 endpoint 就能接，和官方完全兼容。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-04-24 14:25・广东
 赞同​
 1

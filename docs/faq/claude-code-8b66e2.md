@@ -61,6 +61,9 @@ claude –version
 是不是比想象中简单很多？
 通过这种方式，你就可以同时使用目前最好两款编程工具：Claude code和OpenAI Codex。
 同时还无需担心封号的风险。
+
+如果你只是想单独把 Claude 这一侧跑顺，国内还有更省事的办法：[Code80](https://code.ai80.vip/home) 把真实订阅帐号转成 Claude API，和官方一致，换个 endpoint 就能用，省去海外支付，地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-10-27 14:12・广东
 赞同​
 1 条评论

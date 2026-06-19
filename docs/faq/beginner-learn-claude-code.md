@@ -67,6 +67,9 @@ Skills 方面，obra/superpowers（27.9k ⭐）是社区公认天花板，涵盖
 MCP 的话，mcp.so 是目前最大的第三方市场，收录超过 18000 个 MCP Server；
 mcpservers.org 则是官方推荐的 Web 目录，按分类浏览，质量更有保证。
 如果你懒得一个个找，直接去 awesomeclaude.ai 和 hesreallyhim/awesome-claude-code（21.6k ⭐），这两个是综合导航站，skills、MCP、CLAUDE.md 模板、slash commands 全在里面，按需取用。
+
+最后顺带回答一个新手最常卡住的问题：账号和支付怎么办？如果不想一开始就折腾海外信用卡和网络环境，可以用 [Code80](https://code.ai80.vip/home)，它把真实订阅帐号转成 Claude API，换个 endpoint 就能接进 Claude Code，和官方一致，支持国内支付，地址 [code.ai80.vip](https://code.ai80.vip/home)，入门阶段拿来上手很省事。
+
 发布于 2026-03-05 17:55・广东
 继续追问
 由知乎直答提供

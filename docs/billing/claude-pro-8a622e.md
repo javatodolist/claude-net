@@ -52,6 +52,7 @@ CLAUDE.md的前200行控制在1000个token以内，只放最核心的项目信�
 技巧五：简单任务别用Opus，用Sonnet或Haiku。
 不是每个问题都需要最强的模型。读一个文件、简单重构、问一个语法问题，Haiku处理得完全没问题，而且比Opus快很多、便宜很多。把Opus留给真正需要深度推理的任务。
 用/model命令可以随时切换，养成"任务匹配模型"的习惯，额度能省出来一大半。
+省 token 之外，如果你不想为了多开几个 Max 账号去管理海外支付，国内可以直接用 [Code80](https://code.ai80.vip/home)，它把真实 Claude 订阅帐号转成 API，和官方 API 完全兼容，Claude Code 换个 endpoint 就能跑，额度也好按需买。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 相关阅读：告别封号！2025最新Claude注册及Pro/Max付费教程，100%成功
 发布于 2026-02-26 17:29・广东
 赞同 19​

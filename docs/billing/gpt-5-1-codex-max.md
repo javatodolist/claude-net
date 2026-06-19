@@ -39,6 +39,7 @@ GPT-5.1-Codex-Max 被描述为首个原生训练来跨多个上下文窗口工�
 Compaction 不是外部随便写个 summary prompt 糊弄过去,而是把"如何压缩、仍能不断线地继续做正确的工程决策"当作一种能力进行训练/对齐。
 换句话说,模型在训练时就学会了"怎么压缩上下文才不会把关键信息弄丢、怎么在新窗口里无缝衔接任务"。这不是后期拼凑的工程 trick,而是刻在模型 DNA 里的能力。
 相关阅读：GPT-5.1-Codex-Max正式发布，超越Gemini 3，编程能力第一！（附使用方法）
+Codex 这套压缩机制和 Claude Code 的 /compact 思路挺像，想拿两边放一起对比着用，国内调 Claude 不用绑海外卡，[Code80](https://code.ai80.vip/home) 把真实 Claude 订阅帐号转成 API，和官方完全兼容，Claude Code 里换个 endpoint 就能跑。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-11-25 17:39・广东
 赞同 14​
 3 条评论

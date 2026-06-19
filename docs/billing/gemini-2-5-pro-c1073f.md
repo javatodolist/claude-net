@@ -35,6 +35,7 @@ AI工具导航站
 目前新版的GenimiDeep Reseach已经面向 Gemini Advanced订阅用户开放，仅需19.99美元，要比OpenAI DR（200美元/月）整整便宜10倍。
 同时首次订阅Gemini Advanced的用户，首月还能免费白嫖，只需将一张海外支付卡片绑定到Genimi平台就行。 如果你没有海外支付卡片，可以去野卡这个平台搞定，整体还是非常简单的。
 野卡官网链接：https://yeka.ai/i/AGENT
+文里说 Gemini 2.5 Pro 写代码已经能和 Claude 3.7 打擂台，想拉 Claude 一起对比的话，国内不绑海外卡也能用，[Code80](https://code.ai80.vip/home) 把真实 Claude 订阅帐号转成 API，和官方完全兼容，换个 endpoint 就能接，支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-04-09 20:07・广东
 赞同 1​
 收藏

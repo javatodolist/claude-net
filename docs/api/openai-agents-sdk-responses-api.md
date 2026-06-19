@@ -52,6 +52,9 @@ Web 搜索每千次查询分别为 GPT-4o 搜索 30 美元和 GPT-4o-mini 搜索
 如果你在使用OpenAI API途中遇到支付难题，可以参考一下往期的内容：
 国内用户如何解决OpenAI API的支付难题
 mp.weixin.qq.com/s/rjq9j4FO_qEtdgBS1QNKIg
+
+文末也补一句：Agents SDK 本身就支持接别家的模型，如果你想在多 Agent 流程里换 Claude 试试，国内用户可以通过 [Code80](https://code.ai80.vip/home) 直接调 Claude API，真实订阅帐号转出来的接口，改个 endpoint 就能用，省掉海外卡和网络的麻烦，详见 [code.ai80.vip](https://code.ai80.vip/home)。
+
 编辑于 2025-03-12 13:53・广东
 赞同​
 收藏

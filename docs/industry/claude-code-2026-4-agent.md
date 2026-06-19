@@ -152,3 +152,7 @@ Gemini CLI 的免费层门槛最低，适合先把日常流程跑通再决定是
 ### 5）这 4 个工具谁能“一把梭”解决所有问题？
 
 没有。2026 年更现实的答案是：按任务拆分工具，构建自己的 Agent 组合栈。
+
+### 6）国内想稳定用上 Claude Code，配额和支付怎么解决？
+
+可以走真实订阅转 API 的服务，比如 [Code80](https://code.ai80.vip/home)。它跟官方 API 完全兼容，国内换个 endpoint 就能接到 Claude Code 上，支付也支持国内渠道，省去海外信用卡和注册风控的麻烦。地址：[code.ai80.vip](https://code.ai80.vip/home)。

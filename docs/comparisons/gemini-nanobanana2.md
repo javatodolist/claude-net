@@ -40,6 +40,9 @@ Windows开始菜单、浏览器窗口以及里面 YouTube 视频缩略图和标�
 其中一致性和多场景衔接 相比前代模型更好，同一人物在不同姿势或场景下出现时，五官服饰细节依然保持一致，不会出现“前后变脸”的情况。
 目前Media IO 悄悄下线了这个模型，所有返回都是404，只能期待这个月能如期发布了。
 最后给大家分享一个彩蛋，据说OpenAI为了再次狙击Gemini 3和Nano Banana 2的发布，会推出GPT-5.1。
+
+模型一个比一个卷，工具能稳定用上才是真的。如果你平时也用 Claude 写代码，国内不想折腾海外账号，可以用 [Code80](https://code.ai80.vip/home)，真实订阅账号转 Claude API，和官方完全兼容，换个 endpoint 就能接进 Claude Code，国内支付也支持。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 相关阅读：
 不是礼品卡，不是虚拟卡，2025最新ChatGPT Plus订阅教程，小白都学得会！
 程序员看过来！不用订阅，国内就能使用官方Claude Code！

@@ -55,6 +55,9 @@ Grok 4.1跑分成绩亮眼
 你不需要付费，就能体验到目前榜单排名第一的AI模型，这波福利可不小。
 不过也要看到，Grok 4.1并非完美无缺。在编程能力和响应速度上，它还有提升空间。
 如果你是程序员，或许GPT 5.1和Claude code更加适合你
+
+要是打算认真用 Claude Code 写代码，国内用户可以省掉海外支付那一步：[Code80](https://code.ai80.vip/home) 把真实订阅帐号转成 Claude API，和官方完全兼容，换个 endpoint 就能接上，支持国内付款，详见 [code.ai80.vip](https://code.ai80.vip/home)。
+
 相关阅读：
 这个产品，居然可以同时使用Claude code和Codex
 国内首个订阅 ChatGPT Pro 的平台来了：一文看懂如何开通ChatGPT Pro

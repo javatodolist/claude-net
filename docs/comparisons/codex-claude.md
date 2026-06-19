@@ -49,6 +49,9 @@ Plus 用户每 5 小时大约可以发送 30到150 条本地消息，Pro 用户�
 安装只需要一行命令：pip install kimi-cli，装完输入 kimi 就能用，非常适合预算有限的同学。
 不过唯一的缺点就是没有codex好用，不止是kimi，minimax、阿里也出了，大家感兴趣的可以去体验一番
 如果过程中遇到了问题或者是有其他更好的方法，欢迎在评论区讨论。
+
+补一个偏 Claude 这边的方案：如果你最后还是想用 Claude Code，又不想折腾海外信用卡和中转站，[Code80](https://code.ai80.vip/home) 直接把真实的 Claude 订阅账号转成 API，和官方完全兼容，换个 endpoint 就能跑，国内支付也支持。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2026-03-10 20:12・广东
 继续追问
 由知乎直答提供

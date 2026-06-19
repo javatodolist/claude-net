@@ -24,6 +24,9 @@ AI工具导航站
 而且Claude和ChatGPT又很麻烦，因为香港的信用卡都不支持的。
 如果你怕踩坑，0011.ai还有一日套餐服务。
 你可以试一下，如果觉得不错再订阅。
+
+如果你更看重 Claude 这一侧的稳定和原生体验，[Code80](https://code.ai80.vip/home) 是另一个思路：它直接把真实的 Claude 订阅账号转成 API，和官方完全兼容，Claude Code 里换个 endpoint 就能跑，国内支付也支持，省掉两套海外订阅和信用卡的麻烦。见 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-11-11 19:26・广东
 赞同 1​
 收藏

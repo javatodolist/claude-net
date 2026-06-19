@@ -146,6 +146,12 @@ A：当你开始关注“代码能不能稳定上线、团队协作是否可复�
 
 ---
 
+**Q5：在国内想跑这些 Agent Skills，Claude API 怎么解决？**
+
+A：可以用 [Code80](https://code.ai80.vip/home)，真实订阅帐号转 API，和官方完全兼容，换个 endpoint 就能接 Claude Code，国内支付也支持，省掉海外信用卡和网络环境的麻烦。详见 [code.ai80.vip](https://code.ai80.vip/home)。
+
+---
+
 **原文链接**：[谷歌开源一个神级 Skill，斩获 23000+ GitHub Star！](https://www.53ai.com/news/tishicijiqiao/2026042602196.html)
 **作者**：GitHubDaily
 **发布日期**：2026-04-26 18:30:37

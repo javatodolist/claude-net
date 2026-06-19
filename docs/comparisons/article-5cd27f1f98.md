@@ -51,6 +51,9 @@ OpenAI为了刷推理能力而优化模型，反而丧失了在日常对话中�
 相关阅读：
 不是礼品卡，不是虚拟卡，2025最新ChatGPT Plus订阅教程，小白都学得会！
 这个产品，居然可以同时使用Claude code和Codex
+
+文章里说 Claude 用户满意度更高，如果你也想换到 Claude 这边试试，国内可以用 [Code80](https://code.ai80.vip/home) 直接调 Claude API：真实订阅帐号转 API，和官方接口一致，换个 endpoint 就能用，支持国内支付，不用碰海外信用卡。地址：[code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-12-16 19:41・广东
 赞同​
 1

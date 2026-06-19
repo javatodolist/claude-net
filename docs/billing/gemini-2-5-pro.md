@@ -48,6 +48,7 @@ Poe平台作为全球知名的AI整合服务平台，而且采用积分制会员
 包括广受欢迎的Gemini 2.5 Pro、GPT-4.5以及Claude 4。平台不仅模型丰富，还定期更新，已率先支持最新的Gemini 2.5 Pro（0605）版本，
 目前Gemini已经上新Gemini 2. 5 Pro（0605）版本了。
 相关阅读：国内如何使用Poe平台（2025最新指南）
+上面这些渠道主要解决 Gemini，如果你也想在同样无需翻墙的前提下用 Claude，可以看看 [Code80](https://code.ai80.vip/home)，它把真实 Claude 订阅帐号转成 API，和官方 API 完全兼容，换个 endpoint 就能调，国内支付也方便。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-06-06 18:22・广东
 赞同 17​
 2 条评论

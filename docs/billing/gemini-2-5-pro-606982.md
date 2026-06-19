@@ -49,6 +49,7 @@ Gemini 2.5 Pro回答正确，反观o1 Pro回答错误，看来Gemini 2.5 Pro的�
 相关阅读：
 国内用户如何订阅Claude
 想要订阅海外产品，如何解决支付难题​​​​​​​
+补充一句，前面拿 Gemini 跟 Claude、o1 对着测，要是你也想随手调 Claude 做对照，国内不用绑海外卡，用 [Code80](https://code.ai80.vip/home) 直接走 Claude API 就行，它是真实订阅帐号转出来的，和官方完全兼容，换个 endpoint 即可。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-03-26 19:29・广东
 赞同 1​
 收藏

@@ -61,6 +61,9 @@ ChatGPT订阅价格不变。
 在多个智能体评估中，尽管GPT-5.2的每Token成本更高，但GPT-5.2由于更高的Token效率，性价比反而更高。
 ChatGPT 将于今日开始逐步推出 GPT-5.2（包括 Instant、Thinking 和 Pro 版本），首先面向付费用户（Plus、Pro、Go、Business 和 Enterprise 版本）提供。
 为确保 ChatGPT 的流畅性和稳定性，GPT-5.2 将分阶段部署，在 ChatGPT 中，付费用户仍可在三个月内继续使用 GPT-5.1（旧版模式），之后 GPT-5.1 将逐步下线。
+
+GPT-5.2 的 API 价格看着是真不便宜。如果你更习惯用 Claude 干活，国内想直接调 Claude API 又不想折腾海外卡和网络，可以看看 [Code80](https://code.ai80.vip/home)，真实订阅账号转 API，和官方完全兼容，换个 endpoint 就能用，支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-12-12 17:08・广东
 赞同​
 收藏

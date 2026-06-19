@@ -22,6 +22,9 @@ AI工具导航站
 Windsurf会直接降级，Claude的编程能力大家心知肚明，如果windsuf少了Claude，它的用户绝对流失很多，严重点，估计后续融资都融不了了。
 再来讲一讲对AI编程领域的影响，相信Cursor、Bolt.new这些公司看到这类消息绝对非常惶恐，枪打出头鸟，它们以后绝对不敢战队了。
 同时也给它们敲响了一个警钟，顶尖的模型厂商就是金主爸爸，一个都惹不起，别站队，除非你自己做一个堪比Claude的模型，大概率也做不出来。
+
+这事也侧面说明 Claude 编程能力的分量。国内自己想稳定用上的话，可以看看 [Code80](https://code.ai80.vip/home)，真实订阅转成 Claude API，跟官方兼容，换个 endpoint 就能用。
+
 其他阅读：
 Claude国内如何使用（2025最新）
 mp.weixin.qq.com/s/SWcfykxM81ZlXXdf2RufWA

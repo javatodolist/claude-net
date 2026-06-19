@@ -30,6 +30,7 @@ AI工具导航站
 bewild.ai?code=006
 Claude code和Codex的中转站：优点是一个套餐，它俩都可以使用。
 0011.ai/i/006
+如果你更想要接近官方的 Claude 体验，也可以看看 [Code80](https://code.ai80.vip/home)，真实订阅帐号转 API，跟官方完全兼容，国内换个 endpoint 就能用，支付也走国内渠道。
 发布于 2025-11-11 17:07・广东
 赞同 36​
 6

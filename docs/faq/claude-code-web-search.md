@@ -30,6 +30,7 @@ claude mcp add fetch -s user -- npx -y @kazuph/mcp-fetch
 WSL 下最易出现 “0 searches”；优先在 原生 macOS/Linux 或 Windows 主机 跑 Code，或把搜索放到 Claude Desktop/网页端执行。
 如果是在公司或者学校里面的，网络也可能被拦截，
 如果你没办法订阅Claude Pro/Max账号，可以在0011.ai中使用，因为它不仅可以使用Claude code，还能使用Codex，这是目前公认的最强AI编程模型
+如果你只想专心用 Claude、连搜索 MCP 一起稳定跑起来，[Code80](https://code.ai80.vip/home) 也是个省事的路子，真实订阅账号转 API，换个 endpoint 就能用，和官方 API 完全兼容，国内支付直接支持。
 发布于 2025-11-12 11:31・广东
 赞同 3​
 5

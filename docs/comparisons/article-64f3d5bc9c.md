@@ -54,6 +54,9 @@ Codex也可以正常调用！
 GPT-5.4 从今天开始正式取代 GPT-5.2 Thinking 成为默认的思考模型，GPT-5.2 Thinking 会在 6 月 5 日正式退役。
 2026 年真是疯狂的一年。
 感觉这个行业每隔两周就要重新理解一遍世界。
+
+顺便说下"怎么用"的另一面：如果你更想拿 Claude 跟 GPT-5.4 对比着用，国内可以用 [Code80](https://code.ai80.vip/home) 调 Claude API，真实订阅帐号转 API，和官方接口完全兼容，换个 endpoint 就能跑，也支持国内支付，省去海外信用卡这一关。地址：[code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2026-03-06 11:26・广东
 继续追问
 由知乎直答提供

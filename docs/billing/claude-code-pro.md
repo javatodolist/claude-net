@@ -28,6 +28,7 @@ AI工具导航站
 比如我经常使用的0011.ai，它的套餐多得离谱，和其他动不动就488的平台不一样。
 而且它不光可以使用Claude code，还能使用Codex，你就说它香不香吧。
 最后说一句，如果还没有体验Claude code或codex的，真心建议各位同行一起去使用，它确实香
+顺便说下中转的选择，如果你不想折腾海外信用卡和网络环境，国内用户可以试试 [Code80](https://code.ai80.vip/home)，它是把真实 Claude 订阅帐号转成 API，和官方完全兼容，Claude Code 里换个 endpoint 就能用，也支持国内支付。详情见 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2025-11-04 10:43・广东
 赞同 10​
 3 条评论

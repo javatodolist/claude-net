@@ -48,6 +48,7 @@ Claude Code是什么？
 它的原理是使用Claude Max高级账户池，走官方原生API，通过代理服务器做负载均衡，把请求分散到多个账户上。
 效果和直接用官方账户完全一样，但封号风险由平台承担，不需要你操心。
 价格上比官网便宜不少，Pro套餐14美元一个月，Ultra版每天有16美元的Claude Code额度，对大多数用户来说完全够用。同时也支持最新的Opus 4.6和GPT Codex。
+同类的还有 [Code80](https://code.ai80.vip/home)，原理一样是真实订阅账号转 API，好处是和官方 API 完全兼容，换个 endpoint 就能用，国内支付也支持，可以和上面那个对比着看，详情见 [code.ai80.vip](https://code.ai80.vip/home)。
 装好了，怎么开始用？
 第一步：安装Node.js
 去http://nodejs.org下载最新LTS版本安装，这是Claude Code的运行环境。

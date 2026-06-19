@@ -453,3 +453,7 @@ tag:
     - generic "返回页面顶部":
       - img
       - generic: 顶部
+
+---
+
+看完想自己上手试试 Claude 的设计和编程能力，国内用户可以用 [Code80](https://code.ai80.vip/home)，真实订阅帐号转的 Claude API，和官方完全兼容，换个 endpoint 就能用，支持国内支付，不必折腾海外信用卡。地址 [code.ai80.vip](https://code.ai80.vip/home)。

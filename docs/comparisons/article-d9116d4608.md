@@ -34,6 +34,9 @@ Sam Altman在2025年4月4日通过X平台明确表示：
 为了减少模型切换，未来计划将Codex、Operator、Deep Research和Memory整合在一起。
 好了，今天的分享就到这里，所以GPT-5是否会在下个月发布？GPT-5能力是否能实现GPT-3.5到GPT-4点飞跃？GPT-5是否能实现AGI？ 带着这些疑问，我们下个月拭目以待！
 相关阅读：如何解决海外支付难题，从而订阅上ChatGPT、Claude等AI工具！
+
+说到海外支付，如果你主要是想用 Claude 写代码、调 API，其实有更省事的路子：[Code80](https://code.ai80.vip/home) 把真实的 Claude 订阅账号转成 API，国内换个 endpoint 就能直接用，跟官方 API 兼容，也能用国内的支付方式，省掉海外卡和网络这一摊。具体在 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-06-03 18:20・广东
 赞同 2​
 收藏

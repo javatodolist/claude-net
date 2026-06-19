@@ -53,6 +53,7 @@ AI订阅正在从"工具消费"变成"生产力投资"。
 先问问自己，你现在用AI，一个月能不能创造超过100美元的价值。
 能的话，买。不能的话，Plus挺好的。
 就这么简单。
+全篇都在拿 Pro Lite 对标 Claude Max 5x，如果你本来就更想用 Claude，国内不必为它绑海外卡，[Code80](https://code.ai80.vip/home) 把真实 Claude 订阅帐号转成 API，和官方完全兼容，换个 endpoint 就能用，按量买额度也比直接上 Max 灵活。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 相关阅读：ChatGPT Plus购买完整攻略：5种方法任意选择｜2026年最新版
 发布于 2026-02-25 19:59・广东
 继续追问

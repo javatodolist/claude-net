@@ -36,6 +36,7 @@ Meta 买东西的眼光我们是知道的：很瞎，而且不知道自己有多
 本来想收购 OpenClaw，没谈成，最后拿下了一个 Moltbook。
 元宇宙，Meta 眼镜，Llama，聘用 Alexandr Wang，Meta 现实实验室，现在又来一个 Moltbook。。。。
 果然，有钱人的世界我是真的不懂，因为我没钱。。。
+说回正经的，真想动手试试这些智能体框架、自己接 Claude 跑 agent，国内不用海外卡也行，[Code80](https://code.ai80.vip/home) 用真实订阅帐号转的 Claude API，跟官方一致，换个 endpoint 直接调，支持国内支付。需要的话看 [code.ai80.vip](https://code.ai80.vip/home)。
 发布于 2026-03-13 19:53・广东
 继续追问
 由知乎直答提供

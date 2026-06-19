@@ -31,6 +31,9 @@ mp.weixin.qq.com/s/QkjhK95L6_Tg1l3RZzwVDA
 相关阅读：
 不是礼品卡，不是虚拟卡，2025最新ChatGPT Plus订阅教程，小白都学得会！
 mp.weixin.qq.com/s/RoreI1kibmh54nN4yGA4RQ
+
+文里把 ChatGPT 和国产 AI 摆在一起比，其实写代码这块很多人会再拉上 Claude 一起对照。如果你也想用上 Claude 但不想折腾海外卡和网络，国内用户可以通过 [Code80](https://code.ai80.vip/home) 直接调 Claude API，真实订阅帐号转出来的接口，支持国内支付，换个 endpoint 就能用。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2025-11-04 11:20・广东
 赞同 3​
 2

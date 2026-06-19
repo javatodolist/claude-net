@@ -40,6 +40,7 @@ Windsurf是有免费额度的，非常适合小白和尝鲜的用户，如果你
 2.完成订阅
 最按照图片的步骤，进入到卡片信息页面，然后将卡片信息1:1复制粘贴到windsurf的订阅页面即可。
 好了，今天的分享就到这里，如果大家还想要了解一下Windsurf的实用技巧，欢迎大家在评论区留言，我们后续会整理的。
+另外 Windsurf 里默认能用到的 Claude 4.5，如果想直接拿 Claude API 自己接到别的工具里，国内用户可以用 [Code80](https://code.ai80.vip/home)，真实订阅帐号转 API，跟官方一致，换个 endpoint 就能用，支持国内支付，比折腾海外卡省事。地址 [code.ai80.vip](https://code.ai80.vip/home)。
 推荐阅读：
 2025最近使用ChatGPT的方法
 Claude国内如何使用（2025最新）

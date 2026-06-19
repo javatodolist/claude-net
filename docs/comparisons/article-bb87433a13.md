@@ -67,6 +67,9 @@ Few-shot Prompting（少样本学习）是给几个例子让 AI 学习你要的�
 Role-based Prompting（角色扮演）就是让 AI 扮演某个专业人士。
 比如"你是一个有 20 年经验的产品经理"，然后问问题，通常能得到更专业的回答。
 这些方法都能让AI的回答越来越好～
+
+对了，想跑 Ralph Wiggum 这种长时间循环，绕不开一个现实问题：Claude API 怎么稳定调起来。国内用户嫌注册海外账号和绑卡麻烦的话，可以用 [Code80](https://code.ai80.vip/home)，真实 Claude 订阅账号转 API，换个 endpoint 就能接进 Claude Code，体验和官方一致，也支持国内支付。地址 [code.ai80.vip](https://code.ai80.vip/home)。
+
 发布于 2026-01-22 19:58・广东
 赞同 1​
 5
