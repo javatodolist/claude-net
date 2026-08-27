@@ -18,9 +18,15 @@ CC Switch CLI 适合服务器、SSH、macOS 终端和自动化场景使用。如
 [![Built with Rust](https://img.shields.io/badge/built with-Rust-orange.svg)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/saladday/cc-switch-cli/blob/main/LICENSE)
 
-**Claude Code 的命令行管理工具**
+**Claude Code、Codex、OpenCode 与 OpenClaw 的命令行管理工具**
 
 统一管理多个 AI 编码 CLI 的供应商配置，并支持 MCP、Skills、提示词、本地代理和环境检查等功能。
+
+::: warning 不提供 Gemini CLI 教程
+本站不再提供 Gemini CLI 的配置说明。若 CC-Switch CLI 仍带有 `--app gemini`，请忽略；使用 Gemini 模型请参考 [Gemini 相关问题](/code80/faq/Gemini)。
+
+![步骤截图](/images/code80/CC-Switch/018.webp)
+:::
 
 ## CC-Switch CLI 是什么
 
@@ -95,6 +101,7 @@ cc-switch
 
 ```bash
 cc-switch --app claude
+cc-switch --app codex
 ```
 
 TUI 适合第一次配置。你可以在里面选择 Code80 模板，填入 API Key，然后保存并切换到该 Provider。
@@ -109,7 +116,14 @@ cc-switch env tools
 cc-switch env check
 ```
 
-CLI 命令适合服务器、脚本和日常排错，也适合交给 Claude Code 直接执行。
+`claude` 是默认应用。管理其他应用时使用 `--app`：
+
+```bash
+cc-switch --app codex provider list
+cc-switch --app codex provider current
+```
+
+CLI 命令适合服务器、脚本和日常排错，也适合交给 Claude Code / Codex 直接执行。
 
 ## 配置前准备
 
@@ -123,24 +137,32 @@ cc-switch env tools
 
 ```bash
 claude --help
+codex --help
 ```
 
 然后在 Code80 创建对应分组的令牌：
 
 * Claude Code：创建 **CC 分组** 令牌
+* Codex：创建 **Codex 分组** 令牌
 
 ## 配置 Code80
 
 第一次配置推荐使用 TUI，因为它会展示 Code80 模板和需要填写的字段。
 
 ::: tip 提示
-下面以 Claude Code 为例。
+下面以 Claude Code 为例。Codex 的配置方式相同，只需要用 `--app codex` 切换目标应用。
 :::
 
 1. 运行以下命令进入交互界面：
 
 ```bash
 cc-switch
+```
+
+如果要直接配置 Codex，可以这样进入：
+
+```bash
+cc-switch --app codex
 ```
 
 2. 在左侧选择 `Providers`，进入供应商管理页面，然后新增供应商。
@@ -171,6 +193,12 @@ cc-switch
 claude
 ```
 
+Codex 使用：
+
+```bash
+codex
+```
+
 ## 常用命令
 
 ```bash
@@ -182,19 +210,27 @@ cc-switch provider list           # 查看 Claude 供应商
 cc-switch provider current        # 查看当前 Claude 供应商
 cc-switch provider switch <id>    # 切换 Claude 供应商
 
+cc-switch --app codex provider list
+
 cc-switch provider stream-check <id> # 检查供应商流式响应
 cc-switch provider fetch-models <id> # 拉取远端模型列表
 cc-switch update                     # 更新 CC-Switch CLI
 ```
 
+管理 Codex、OpenCode 或 OpenClaw 时，请使用全局参数 `--app` 指定目标应用。
+
 ## 高级玩法：让 AI 助手操作 CC-Switch CLI
 
-如果你已经在 Claude Code 中工作，也可以直接让它们调用 `cc-switch` 命令来检查和切换配置。
+如果你已经在 Claude Code 或 Codex 中工作，也可以直接让它们调用 `cc-switch` 命令来检查和切换配置。
 
 例如你可以这样说：
 
 ```bash
 帮我运行 cc-switch provider list，看一下当前有哪些 Claude Provider。
+```
+
+```bash
+帮我运行 cc-switch --app codex provider current，确认 Codex 当前是不是 Code80。
 ```
 
 ```bash
@@ -215,6 +251,7 @@ cc-switch update                     # 更新 CC-Switch CLI
 
 ```bash
 claude --help
+codex --help
 ```
 
 然后重新切换一次 Provider。
@@ -227,4 +264,5 @@ claude --help
 
 ```bash
 cc-switch env check --app claude
+cc-switch env check --app codex
 ```

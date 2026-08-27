@@ -11,7 +11,7 @@ layout: doc
 
 ### CC-Switch介绍
 
-### Claude Code 全方位辅助工具
+### Claude Code / Codex 全方位辅助工具
 
 [![Version](https://img.shields.io/badge/version-3.7.1-blue.svg)](https://github.com/farion1231/cc-switch/releases)
 [![Trending](https://img.shields.io/badge/🔥_TypeScript_Trending-Daily | Weekly | Monthly-ff6b6b.svg)](https://github.com/trending/typescript)
@@ -25,7 +25,7 @@ layout: doc
 
 **从供应商切换器到 AI CLI 一体化管理平台**
 
-**统一管理 Claude Code 等 CLI 的供应商配置、MCP 服务器、Skills 扩展和系统提示词。**
+**统一管理 Claude Code、Codex 等 CLI 的供应商配置、MCP 服务器、Skills 扩展和系统提示词。**
 
 使用 CC-Switch，您可以：
 
@@ -91,11 +91,14 @@ sudo dpkg -i cc-switch_x.x.x_amd64.deb
 
 ::: warning 注意
 **请你最好进行此步的环境检查步骤！！！
-如果你有经验，能确认你的 Nodejs 环境以及 Claude Code 的 CLI 安装没问题，配置目录也都存在，可以忽略这一步，直接进入以下的 CC Switch 配置**
+如果你有经验，能确认你的 Nodejs 环境以及 Claude Code、Codex 的 CLI 安装没问题，配置目录也都存在，可以忽略这一步，直接进入以下的 CC Switch 配置**
 
 点击右侧传送门查看 [如何进行环境检查？](/code80/cli/1-env)
 :::
 
+::: warning 不提供 Gemini CLI 教程
+本站不再提供 Gemini CLI 的配置教程（该工具几乎无法正常使用）。CC-Switch 若仍显示 Gemini 入口，请忽略；使用 Gemini 模型请改用 Cline / Roo Code 等，见 [Gemini 相关问题](/code80/faq/Gemini)。
+:::
 
 ## Claude Code配置
 
@@ -131,6 +134,36 @@ sudo dpkg -i cc-switch_x.x.x_amd64.deb
 
 ![步骤截图](/images/code80/CC-Switch/guide/011.jpg)
 
+## Codex配置
+
+1. 打开已安装的 CC Switch，你会看到如下图所示的初始界面
+
+![步骤截图](/images/code80/CC-Switch/guide/003.jpg)
+
+2. 在顶部应用切换栏中选择 **Codex**
+
+![步骤截图](/images/code80/CC-Switch/guide/012.jpg)
+
+3. 点击右上角 `+`，在预设供应商中选择 **Code80**
+
+![步骤截图](/images/code80/CC-Switch/guide/013.jpg)
+
+4. 回顾 [创建 API 令牌](/code80/register/4-token)，在 Code80 中创建 **Codex** 分组的令牌，然后复制 API Key
+
+![步骤截图](/images/code80/CC-Switch/guide/014.jpg)
+
+5. 在供应商配置中找到 `API Key`，填入刚才复制的 API Key，再点击右下角 **添加**
+
+![步骤截图](/images/code80/CC-Switch/guide/015.jpg)
+
+6. 添加成功后，回到主界面找到刚配置的 Code80，点击右侧 **启用** ；显示 **使用中** 即表示切换成功
+
+![步骤截图](/images/code80/CC-Switch/guide/016.jpg)
+
+7. 在终端运行 `codex`，看到对话界面并能正常回复，即表示配置完成
+
+![步骤截图](/images/code80/CC-Switch/guide/017.jpg)
+
 ## 用量查询配置
 
 CC Switch 可以在 Code80 供应商卡片中显示已用额度和剩余额度。具体设置方法请查看 [用量查询配置](/code80/ccswitch/4-usage-query)。
@@ -155,8 +188,16 @@ Claude Desktop **不会像 Claude Code 那样热重载配置** ，每次切换�
 
 详细步骤、导入注意事项和排查方法，见 [CC Switch · Claude Desktop 配置](/code80/ccswitch/4-claude-desktop)
 
+## ChatGPT 接入
+
+完成上面的 Codex CLI 配置后，ChatGPT 通常可以直接复用现有供应商配置。首次启动仍出现登录页、需要使用 API Key 登录，或切换供应商后配置未生效时，请查看 [ChatGPT 接入](/code80/ccswitch/6-codex-app)。
+
+## DS接入Codex
+
+需要在 Codex CLI 或 ChatGPT 中使用 Code80 的 DeepSeek 分组时，请查看 [DS接入Codex](/code80/advanced/DeepSeekCodex)。
+
 ## CC Switch CLI 使用
 
-CC-Switch CLI 同时提供完整 CLI 命令和完整 TUI 界面，适合服务器、SSH、macOS 终端和自动化场景使用。你也可以让 Claude Code 直接调用 `cc-switch` 命令来检查、切换和修复配置。
+CC-Switch CLI 同时提供完整 CLI 命令和完整 TUI 界面，适合服务器、SSH、macOS 终端和自动化场景使用。你也可以让 Claude Code / Codex 直接调用 `cc-switch` 命令来检查、切换和修复配置。
 
 查看详细教程：[CC Switch CLI 使用](/code80/ccswitch/5-ccs_cli)

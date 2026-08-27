@@ -12,6 +12,10 @@ category: Claude 常见问题 FAQ
 
 ## 推荐阅读
 
+- [Code80 常见问题](/code80/faq/)
+- [Claude Code 无法连接 Anthropic](/code80/faq/CC)
+
+
 - [初学者如何快速入门 Claude Code](beginner-learn-claude-code)
 - [在国内如何使用 Claude Code 进行编程](domestic-use-claude-code)
 - [Claude Code 每月配额不够用怎么办：省 Token 和多平台切换技巧](claude-code-token-saving)
