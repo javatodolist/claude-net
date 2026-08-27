@@ -1,8 +1,13 @@
 ---
 title: 令牌分组查看
 shortTitle: 查看分组
-description: 介绍如何在 Code80 中完成「令牌分组查看」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: 令牌分组查看。本文属于Claude 入门与国内使用专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude 入门与国内使用
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # 令牌分组查看
@@ -28,3 +33,10 @@ layout: doc
 :::
 
 ![步骤截图](/images/code80/Model/001.webp)![步骤截图](/images/code80/Model/002.webp)
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

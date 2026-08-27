@@ -1,8 +1,13 @@
 ---
 title: 常见问题 | Code80 使用文档
 shortTitle: 常见问题
-description: Code80 常见问题索引：Claude Code、Codex、Gemini、Grok Build。
-layout: doc
+description: Code80 常见问题索引：Claude Code、Codex、Gemini、Grok Build。本文属于Claude 常见问题 FAQ专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude 常见问题 FAQ
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # 常见问题
@@ -20,3 +25,10 @@ layout: doc
 - [令牌分组介绍](/code80/token/2-group)
 - [CC-Switch 使用教程](/code80/ccswitch/)
 - [CLI 配置教程](/code80/cli/)
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

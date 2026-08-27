@@ -12,6 +12,10 @@ Claude API 中文开发指南，覆盖 API Key、SDK 接入、成本计算、文
 
 ## 推荐阅读
 
+- [Code80 创建 API 令牌](/code80/register/4-token)
+- [Code80 令牌分组介绍](/code80/token/2-group)
+- [Code80 快速开始](/code80/)
+
 - [Claude API 接入开发者指南：把 Claude 集成进项目](claude-api-developer-guide)
 - [Claude 自动生成 API 文档：从代码注释到完整文档](claude-api-docs)
 - [Claude 接入飞书与企业微信：给团队搭一个 AI 助手](claude-feishu-wecom)

@@ -1,8 +1,13 @@
 ---
 title: DS接入CC
 shortTitle: DS 接入 CC
-description: 介绍如何在 Code80 中完成「DS接入CC」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: DS接入CC。本文属于Claude Code 国内安装与工作流专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude Code 国内安装与工作流
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # DS接入CC
@@ -101,3 +106,10 @@ layout: doc
 ::: tip 使用提醒
 DeepSeek 接入 Claude Code 的配置是否生效，请直接以 Claude Code 内的实际对话结果为准。不要在 CC Switch 中使用该供应商的测试功能作为最终判断。
 :::
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

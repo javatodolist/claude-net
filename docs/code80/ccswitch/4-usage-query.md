@@ -1,8 +1,13 @@
 ---
 title: 用量查询配置
 shortTitle: 用量查询
-description: 介绍如何在 Code80 中完成「用量查询配置」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: 用量查询配置。本文属于Claude Code 国内安装与工作流专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude Code 国内安装与工作流
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # 用量查询配置
@@ -28,3 +33,10 @@ CC Switch 可以直接显示 Code80 的已用额度和剩余额度。用量查�
 5. 点击 **保存配置** 。返回供应商列表后，即可在 Code80 卡片上查看用量并手动刷新。
 
 ![步骤截图](/images/code80/CC-Switch/guide/022.jpg)
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

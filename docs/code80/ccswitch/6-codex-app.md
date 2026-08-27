@@ -1,8 +1,13 @@
 ---
 title: ChatGPT 接入
 shortTitle: ChatGPT 接入
-description: 介绍如何在 Code80 中完成「ChatGPT 接入」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: ChatGPT 接入。本文属于Claude Code 国内安装与工作流专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude Code 国内安装与工作流
+tag:
+  - Code80
+  - AI编程
+  - Codex
 ---
 
 # ChatGPT 接入
@@ -42,3 +47,10 @@ CC Switch 中的 Codex 配置发生变更后，需要完全退出并重新打开
 在菜单栏选择 **文件 → Quit ChatGPT** ，或使用快捷键 `Ctrl + Q` 完全退出，再重新启动应用。
 
 ![步骤截图](/images/code80/CC-Switch/guide/027.jpg)
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

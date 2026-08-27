@@ -1,8 +1,13 @@
 ---
 title: 购买额度
 shortTitle: 购买额度
-description: 介绍如何在 Code80 中完成「购买额度」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: 购买额度。本文属于Claude 入门与国内使用专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude 入门与国内使用
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # 购买额度
@@ -25,3 +30,10 @@ layout: doc
 * 5 月已完成支付的订单，所有用户仍可在 6 月申请补开大陆发票；其中海外 Invoice 订单需完成补税后申请，申请截止至 6 月 15 日。
 * 自 6 月起，新购个人支付订单不再支持开具大陆发票；后续大陆发票仅支持企业对公支付订单。
 :::
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

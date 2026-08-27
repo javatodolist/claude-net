@@ -1,8 +1,13 @@
 ---
 title: Claude Code配置
 shortTitle: Claude Code
-description: 介绍如何在 Code80 中完成「Claude Code配置」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: Claude Code配置。本文属于Claude Code 国内安装与工作流专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude Code 国内安装与工作流
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # Claude Code配置
@@ -147,3 +152,10 @@ layout: doc
 **注意，如果配置完仍然有报错问题，提示你需要登录，请看如下链接解决**
 [claude-code-无法连接到-anthropic-服务](/code80/faq/CC)
 :::
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)

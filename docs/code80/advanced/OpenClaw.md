@@ -1,8 +1,13 @@
 ---
 title: OpenClaw
 shortTitle: OpenClaw
-description: 介绍如何在 Code80 中完成「OpenClaw」。步骤与原文一致，接口与控制台均指向 Code80。
-layout: doc
+description: OpenClaw。本文属于Claude Code 国内安装与工作流专题，面向国内用户梳理 Code80 接入与配置步骤。
+date: 2026-08-27
+category: Claude Code 国内安装与工作流
+tag:
+  - Code80
+  - AI编程
+  - Claude Code
 ---
 
 # OpenClaw
@@ -162,3 +167,10 @@ openclaw pairing approve telegram 你的Pairing code
 ```
 
 ![步骤截图](/images/code80/Advanced/OpenClaw/20.webp)
+
+## 本站相关栏目
+
+- [Claude 入门与国内使用](/guide/)
+- [Claude Code 国内安装与工作流](/claude-code/)
+- [Claude API 接入与开发](/api/)
+- [Claude 常见问题 FAQ](/faq/)
