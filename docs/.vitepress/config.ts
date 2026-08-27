@@ -6,6 +6,7 @@ import path from 'path'
 import { statSync } from 'fs'
 import { nav } from './nav'
 import { sidebar } from './sidebar'
+import { code80Sidebar } from './sidebar-code80'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const SITE_URL = 'https://claude.it8090.cn'
@@ -125,7 +126,7 @@ export default withMermaid(
       hostname: SITE_URL,
       transformItems: (items) => {
         // 核心 Claude 目录给更高 priority
-        const HIGH_PRIORITY_DIRS = ['guide/', 'claude-code/', 'api/', 'billing/', 'faq/']
+        const HIGH_PRIORITY_DIRS = ['guide/', 'claude-code/', 'api/', 'billing/', 'faq/', 'code80/']
         const LOW_PRIORITY_DIRS = ['industry/']
         return items.map((item) => {
           const url = item.url
@@ -288,7 +289,10 @@ export default withMermaid(
     themeConfig: {
       logo: '/logo.png',
       nav,
-      sidebar,
+      sidebar: {
+        ...sidebar,
+        '/code80/': code80Sidebar,
+      },
 
       outline: {
         level: [2, 3],
