@@ -13,6 +13,16 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: 'Claude 国内怎么用最省事', link: '/guide/claude-domestic-easiest-way' },
       ],
     },
+    {
+      text: 'Code80 快速开始',
+      collapsed: false,
+      items: [
+        { text: 'Code80 使用文档', link: '/code80/' },
+        { text: '注册账号', link: '/code80/register/1-register' },
+        { text: '创建 API 令牌', link: '/code80/register/4-token' },
+        { text: '令牌分组介绍', link: '/code80/token/2-group' },
+      ],
+    },
   ],
   '/claude-code/': [
     {
@@ -29,6 +39,18 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: '常见报错处理', link: '/claude-code/claude-code-errors' },
       ],
     },
+    {
+      text: 'Code80 接入 Claude Code',
+      collapsed: false,
+      items: [
+        { text: '环境检查', link: '/code80/cli/1-env' },
+        { text: 'Claude Code配置', link: '/code80/cli/2-claude' },
+        { text: 'CC-Switch', link: '/code80/ccswitch/' },
+        { text: 'Claude Desktop', link: '/code80/advanced/ClaudeDesktop' },
+        { text: '缓存优化', link: '/code80/cli/5-cache-fix' },
+        { text: 'Claude Code FAQ', link: '/code80/faq/CC' },
+      ],
+    },
   ],
   '/api/': [
     {
@@ -39,6 +61,14 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: '自动生成 API 文档', link: '/api/claude-api-docs' },
         { text: '接入飞书与企业微信', link: '/api/claude-feishu-wecom' },
         { text: 'DevOps 实战', link: '/api/claude-devops' },
+      ],
+    },
+    {
+      text: 'Code80 令牌与端点',
+      collapsed: false,
+      items: [
+        { text: '创建 API 令牌', link: '/code80/register/4-token' },
+        { text: '令牌分组介绍', link: '/code80/token/2-group' },
       ],
     },
   ],
@@ -53,6 +83,13 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: '账号封禁避坑', link: '/billing/claude-account-ban-avoid' },
         { text: '封号生存法则', link: '/billing/claude-ban-survival' },
         { text: 'Claude Pro 付款对比', link: '/billing/claude-pro-payment-comparison' },
+      ],
+    },
+    {
+      text: 'Code80 购买额度',
+      collapsed: false,
+      items: [
+        { text: '购买额度', link: '/code80/register/3-quota' },
       ],
     },
   ],
@@ -107,6 +144,17 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: 'claude.md 怎么写', link: '/faq/claude-md-best-practice' },
         { text: '如何避免 Claude 封号', link: '/faq/avoid-claude-ban' },
         { text: 'Claude Code vs Cursor', link: '/faq/claude-code-vs-cursor' },
+      ],
+    },
+    {
+      text: 'Code80 常见问题',
+      collapsed: false,
+      items: [
+        { text: '常见问题', link: '/code80/faq/' },
+        { text: 'Claude Code', link: '/code80/faq/CC' },
+        { text: 'Codex', link: '/code80/faq/Codex' },
+        { text: 'Gemini', link: '/code80/faq/Gemini' },
+        { text: 'Grok Build', link: '/code80/faq/GrokBuild' },
       ],
     },
   ],

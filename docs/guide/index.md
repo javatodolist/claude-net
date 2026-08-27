@@ -12,6 +12,11 @@ category: Claude 入门与国内使用
 
 ## 推荐阅读
 
+- [Code80 快速开始：注册、令牌、配置 Claude Code](/code80/)
+- [创建 API 令牌](/code80/register/4-token)
+- [令牌分组介绍](/code80/token/2-group)
+
+
 - [2026年Claude国内使用完全手册：注册、订阅、免费体验、API](claude-domestic-complete-guide)
 - [Claude 国内注册全流程：从零开始到 Claude Pro 用起来](claude-register-pro-guide)
 - [不翻墙怎么用 Claude：国内三种可行方案横向对比](claude-domestic-three-ways)

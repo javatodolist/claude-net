@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: 常见问题
       link: /faq/
+    - theme: brand
+      text: Code80 快速开始
+      link: /code80/
 features:
   - title: Claude 国内使用指南
     details: 覆盖 Claude 注册、登录、官方入口、镜像、API 转发和国内稳定使用路线
@@ -39,6 +42,9 @@ features:
   - title: Agent 与行业趋势
     details: 追踪 Anthropic、Managed Agents、多智能体、远程控制和行动型 Agent
     link: /industry/
+  - title: Code80 接入教程
+    details: 注册、令牌、Claude Code / Codex / CC-Switch 完整配置步骤，国内直连
+    link: /code80/
   - title: Claude 常见问题
     details: 从知乎问答整理 Claude Code 入门、Token 不够、封号、国内渠道等长尾问题
     link: /faq/

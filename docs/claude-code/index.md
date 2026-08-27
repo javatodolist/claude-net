@@ -12,6 +12,12 @@ Claude Code 中文教程，覆盖国内安装、账号准备、CLI、VS Code、�
 
 ## 推荐阅读
 
+- [Code80 配置 Claude Code](/code80/cli/2-claude)
+- [CC-Switch 一键配置](/code80/ccswitch/)
+- [Claude Desktop](/code80/advanced/ClaudeDesktop)
+- [Claude Code 常见问题](/code80/faq/CC)
+
+
 - [Claude Code 本地跑起来：从安装到第一次对话](claude-code-local-install)
 - [Claude Code 国内安装使用完整教程](claude-code-domestic-install)
 - [Claude Code 国内使用方案技术拆解：三种路线怎么选](claude-code-domestic-solutions)

@@ -4,6 +4,7 @@ export const nav: DefaultTheme.NavItem[] = [
   { text: '首页', link: '/' },
   { text: 'Claude 入门', link: '/guide/' },
   { text: 'Claude Code', link: '/claude-code/' },
+  { text: 'Code80', link: '/code80/' },
   { text: 'API 开发', link: '/api/' },
   { text: '订阅与账号', link: '/billing/' },
   {

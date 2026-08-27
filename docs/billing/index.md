@@ -12,6 +12,10 @@ category: Claude 订阅、付款与账号风控
 
 ## 推荐阅读
 
+- [Code80 购买额度](/code80/register/3-quota)
+- [Code80 创建 API 令牌](/code80/register/4-token)
+- [Code80 快速开始](/code80/)
+
 - [Claude 封号、付不了款？国内使用全攻略](claude-ban-payment-guide)
 - [Claude 套餐怎么选：Pro、Max、API 按量一张表看清](claude-plan-choose)
 - [Claude 四档套餐解析：Pro 够用吗，API 怎么算更划算](claude-pricing-analysis)
