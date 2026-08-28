@@ -1,0 +1,15 @@
+# pnpm v11+ 的配置源。package.json 的 "pnpm" 字段已不再读取。
+# 单包站点：不声明 packages 时只包含仓库根目录。
+
+shamefullyHoist: true
+
+overrides:
+  d3-array: ^3
+  d3-shape: ^3
+
+# esbuild / @parcel/watcher 的 postinstall 会下载平台二进制。
+# 值为占位符 "set this to true or false" 时，pnpm install 会以
+# ERR_PNPM_IGNORED_BUILDS 失败，vitepress build 随后找不到 esbuild。
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true

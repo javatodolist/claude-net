@@ -95,7 +95,10 @@ main() {
     # Step 1: 本地构建
     if [ "$SKIP_BUILD" = false ]; then
         print_info "Step 1/4: 本地构建..."
-        pnpm install
+        node "$SCRIPT_DIR/check-pnpm-config.mjs"
+        node "$SCRIPT_DIR/check-static-assets.mjs"
+        # confirmModulesPurge=false：避免 workspace 配置变更时交互确认卡住 CI/本地非 TTY
+        pnpm install --config.confirmModulesPurge=false
         pnpm run build
         print_success "构建完成"
     else
@@ -119,7 +122,7 @@ main() {
     REMOTE_TMP="/tmp/ai80-net-${TIMESTAMP}.tar.gz"
 
     cd "$DIST_DIR"
-    COPYFILE_DISABLE=1 tar -czf "$TAR_FILE" .
+    COPYFILE_DISABLE=1 tar --no-xattrs --no-mac-metadata -czf "$TAR_FILE" .
     TAR_SIZE=$(du -h "$TAR_FILE" | cut -f1)
     print_info "压缩包大小: ${TAR_SIZE}"
 
